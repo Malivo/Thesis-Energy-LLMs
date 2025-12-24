@@ -1,0 +1,61 @@
+sudo apt update
+sudo apt install -y build-essential cmake python3 python3-pip git wget unzip
+# Optional but recommended for GPU builds
+sudo apt install -y nvidia-cuda-toolkit
+
+git clone https://github.com/ggerganov/llama.cpp.git
+cd llama.cpp
+
+sudo apt update
+sudo apt install -y libcurl4-openssl-dev
+
+cd ~/llama.cpp/build
+cmake ..
+cmake --build . --config Release
+
+ls -lh ~/llama.cpp/build/bin/
+
+# Folder for the installations 
+mkdir -p ~/models/qwen
+cd ~/models/qwen
+
+# HuggingFace account required
+pip install huggingface_hub
+huggingface-cli login
+
+##
+sudo apt install -y pipx
+pipx ensurepath
+pipx install huggingface_hub
+huggingface-cli login
+
+# Close terminal and try again, if not working
+
+cd ~/models/qwen
+# Download base models
+huggingface-cli download Qwen/Qwen2.5-7B --local-dir Qwen2.5-7B
+huggingface-cli download Qwen/Qwen2.5-Coder-7B --local-dir Qwen2.5-Coder-7B
+
+pipx install transformers accelerate safetensors sentencepiece
+
+# Create and activate a venv for llama.cpp -> Python environment required 
+cd ~/llama.cpp
+python3 -m venv venv
+source venv/bin/activate
+
+# Install dependencies
+pip install --upgrade pip
+pip install torch transformers accelerate sentencepiece safetensors huggingface_hub
+
+# Re-run the conversion
+python3 convert_hf_to_gguf.py ~/models/qwen/Qwen2.5-7B --outfile ~/models/qwen/qwen2_5_7b.gguf
+python3 convert_hf_to_gguf.py ~/models/qwen/Qwen2.5-Coder-7B --outfile ~/models/qwen/qwen2_5_coder_7b.gguf
+
+# Quantize to reduce energy
+./quantize ~/models/qwen/qwen2_5_7b.gguf ~/models/qwen/qwen2_5_7b.Q4_K_M.gguf Q4_K_M
+./quantize ~/models/qwen/qwen2_5_coder_7b.gguf ~/models/qwen/qwen2_5_coder_7b.Q4_K_M.gguf Q4_K_M
+
+cd ~/llama.cpp/build/bin
+./main -m ~/models/qwen/qwen2_5_7b.Q4_K_M.gguf -p "Explain why energy efficiency matters in AI inference."
+
+
