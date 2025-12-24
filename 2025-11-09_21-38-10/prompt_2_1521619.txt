@@ -1,0 +1,1 @@
+Summarize the purpose of the following Python function: ; def is_palindrome(s): return s == s[::-1]

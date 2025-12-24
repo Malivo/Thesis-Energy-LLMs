@@ -1,0 +1,23 @@
+=== LLM Energy Consumption Benchmark ===
+qua 22 out 2025 15:53:14 WEST
+
+
+=== Running model: /home/joao/models/qwen/qwen2_5_7b.gguf ===
+Started powerstat (pid 763829)
+Collecting power data for 60 seconds...
+
+
+=== Finished model: /home/joao/models/qwen/qwen2_5_7b.gguf ===
+qua 22 out 2025 15:54:15 WEST
+
+
+=== Running model: /home/joao/models/qwen/qwen2_5_coder_7b.gguf ===
+Started powerstat (pid 764084)
+Collecting power data for 60 seconds...
+
+
+=== Finished model: /home/joao/models/qwen/qwen2_5_coder_7b.gguf ===
+qua 22 out 2025 15:55:16 WEST
+
+=== Benchmark completed ===
+qua 22 out 2025 15:55:16 WEST

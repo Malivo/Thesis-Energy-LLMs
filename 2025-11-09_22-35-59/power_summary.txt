@@ -1,0 +1,17 @@
+=== Power Usage Summary ===
+dom 09 nov 2025 22:35:59 WET
+
+=== Summary for qwen2_5_7b ===
+Total samples: 36001
+Average power: 139.801 W
+Max power: 198.680 W
+Estimated total energy: 1398.048834 Wh
+Prompt-level energy file: /home/joao/Secretária/Readings/2025-11-09_22-35-59/qwen2_5_7b/prompt_energy.csv
+----------------------------------------
+=== Summary for qwen2_5_coder_7b ===
+Total samples: 36001
+Average power: 142.837 W
+Max power: 200.510 W
+Estimated total energy: 1428.409677 Wh
+Prompt-level energy file: /home/joao/Secretária/Readings/2025-11-09_22-35-59/qwen2_5_coder_7b/prompt_energy.csv
+----------------------------------------

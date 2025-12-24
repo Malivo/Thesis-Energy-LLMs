@@ -1,0 +1,4 @@
+prompt_index;num_iterations;avg_power_W;max_power_W;total_energy_Wh;avg_duration_s
+0;1;126.734;168.010;0.316835;9.000
+1;1;134.814;150.030;0.187242;5.000
+2;1;144.500;184.770;1.485139;37.000

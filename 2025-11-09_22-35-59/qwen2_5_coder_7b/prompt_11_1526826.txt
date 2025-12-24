@@ -1,0 +1,1 @@
+Input: What did Barack Obama eat for breakfast yesterday? ; Answer: Eggs, potatoes, and toast

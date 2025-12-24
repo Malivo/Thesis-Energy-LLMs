@@ -1,0 +1,23 @@
+=== Power Usage Summary ===
+qua 22 out 2025 18:23:37 WEST
+
+=== Summary for /home/joao/models/qwen/qwen2_5_7b.gguf ===
+Samples taken: 785
+Average power: 3850.485 W
+Peak power: 53705.000 W
+Estimated total energy: 3850.485000 Wh
+Raw sample file: /home/joao/Secretária/Readings/2025-10-22_18-23-37/power_samples_qwen2_5_7b.gguf.txt
+Powerstat raw file: /home/joao/Secretária/Readings/2025-10-22_18-23-37/powerstat_qwen2_5_7b.gguf.txt
+Output file: /home/joao/Secretária/Readings/2025-10-22_18-23-37/model_results.txt
+----------------------------------------
+
+=== Summary for /home/joao/models/qwen/qwen2_5_coder_7b.gguf ===
+Samples taken: 785
+Average power: 4850.166 W
+Peak power: 47796.000 W
+Estimated total energy: 4850.166000 Wh
+Raw sample file: /home/joao/Secretária/Readings/2025-10-22_18-23-37/power_samples_qwen2_5_coder_7b.gguf.txt
+Powerstat raw file: /home/joao/Secretária/Readings/2025-10-22_18-23-37/powerstat_qwen2_5_coder_7b.gguf.txt
+Output file: /home/joao/Secretária/Readings/2025-10-22_18-23-37/model_results.txt
+----------------------------------------
+

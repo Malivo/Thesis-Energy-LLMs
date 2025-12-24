@@ -1,0 +1,6 @@
+=== Summary for qwen2_5_coder_7b ===
+Total samples: 3602
+Average power: 150.936 W
+Max power: 219.010 W
+Estimated total energy: 151.019853 Wh
+Prompt-level energy file: /home/joao/Secretária/Readings/2025-11-23_16-34-33/qwen2_5_coder_7b/prompt_energy.csv

@@ -1,0 +1,9 @@
+=== LLM Energy Consumption Benchmark ===
+qua 22 out 2025 15:51:34 WEST
+
+
+=== Running model: /home/joao/models/qwen/qwen2_5_7b.gguf ===
+Started powerstat (pid 763497)
+Collecting power data for 600 seconds...
+
+

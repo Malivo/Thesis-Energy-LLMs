@@ -1,0 +1,17 @@
+=== LLM Energy Consumption Benchmark v1.9 ===
+dom 09 nov 2025 22:07:15 WET
+
+
+=== Running model: qwen2_5_7b ===
+Started powerstat (pid 1524447)
+Collecting power data for 60 seconds...
+=== Finished model: qwen2_5_7b ===
+dom 09 nov 2025 22:08:18 WET
+
+=== Running model: qwen2_5_coder_7b ===
+Started powerstat (pid 1524770)
+Collecting power data for 60 seconds...
+=== Finished model: qwen2_5_coder_7b ===
+dom 09 nov 2025 22:09:21 WET
+=== Benchmark completed ===
+dom 09 nov 2025 22:09:21 WET

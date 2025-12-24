@@ -1,0 +1,1 @@
+Translate the following Python code to Java: ; def add(a, b): return a + b
