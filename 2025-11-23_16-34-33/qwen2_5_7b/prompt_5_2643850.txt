@@ -1,1 +1,0 @@
-def return1(): pass ; # Returns the number 1

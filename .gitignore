@@ -1,0 +1,19 @@
+# Raw benchmark result sessions (large; keep locally, not in git)
+20*/
+*/results/
+benchmark_results/
+*.csv.bak
+
+# Models (huge; never commit)
+models/
+*.gguf
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+*.swp

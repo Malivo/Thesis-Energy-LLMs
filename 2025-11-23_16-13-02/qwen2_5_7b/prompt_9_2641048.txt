@@ -1,1 +1,0 @@
-def is_prime(n): pass ; # Returns True if n is a prime number
