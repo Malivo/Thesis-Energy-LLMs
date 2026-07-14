@@ -1,3 +1,7 @@
-pandas>=2.0
-matplotlib>=3.7
-numpy>=1.24
+# Analysis and plotting dependencies (exact versions used in this work)
+matplotlib==3.11.0
+numpy==2.5.1
+pandas==3.0.3
+
+# Note: benchmark_gui.py uses tkinter, which is part of the Python standard
+# library but may require a system package on Linux (e.g. `sudo apt install python3-tk`).
