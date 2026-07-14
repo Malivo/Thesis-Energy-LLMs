@@ -67,11 +67,11 @@ One thing to watch: keep spaces and parentheses out of the results folder name. 
 
 ## Metrics
 
-- energy per token (mWh/token) — the main efficiency number, net GPU energy divided by generated tokens
+- energy per token (mWh/token) - the main efficiency number, net GPU energy divided by generated tokens
 - energy per prompt (mWh)
 - throughput (tokens/s) and latency (s)
-- timeout rate — share of prompts that ran past the per-prompt time limit
-- effective energy per attempted prompt — total energy over every prompt attempted, not just the ones that finished. This matters because a model that times out on hard prompts otherwise looks artificially cheap, since it is only scored on the prompts it completed.
+- timeout rate - share of prompts that ran past the per-prompt time limit
+- effective energy per attempted prompt - total energy over every prompt attempted, not just the ones that finished. This matters because a model that times out on hard prompts otherwise looks artificially cheap, since it is only scored on the prompts it completed.
 
 ## Notes on reproducibility
 
