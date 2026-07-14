@@ -1,0 +1,90 @@
+Compute 7 + 8.
+Multiply 6 by 9.
+Find the square of 12.
+Convert 100 centimeters to meters.
+Determine if 15 is an even number.
+Find the largest of three numbers: 4, 9, 2.
+Calculate the perimeter of a square with side length 5.
+Convert 2 hours into minutes.
+Find the average of 2, 4, and 6.
+Subtract 18 from 42.
+Write a Python function that returns the sum of two numbers.
+Print numbers from 1 to 10 using a loop.
+Explain what a variable is in programming.
+Identify the output of: print(3 * 4).
+Describe what an if-statement does.
+Add 12 and 15.
+Multiply 4 by 7.
+Find the cube of 3.
+Convert 500 grams to kilograms.
+Determine if 22 is odd or even.
+Find the smallest of 8, 3, and 10.
+Calculate the area of a square with side 6.
+Convert 3 days into hours.
+Find the sum of 5, 10, and 15.
+Subtract 25 from 60.
+Print numbers from 10 to 20.
+Explain what a constant is in programming.
+Identify the output of: print(5 + 2).
+Describe what a loop does.
+Write a simple function that returns a number.
+Solve the equation x² − 5x + 6 = 0.
+Find the derivative of 3x² + 2x.
+Write a Python function to check if a number is prime.
+Explain the difference between a list and a dictionary.
+Find the median of the numbers 3, 7, 9, 15, 21.
+Write pseudocode for binary search.
+Explain how recursion works with an example.
+Solve a system of two linear equations.
+Analyze the time complexity of linear search.
+Write a function to reverse a string.
+Explain how a stack data structure works.
+Compute the area under a linear curve using integration.
+Debug a loop that runs indefinitely.
+Explain the concept of modular arithmetic.
+Write a function that computes Fibonacci numbers.
+Solve the equation 2x + 3 = 11.
+Find the derivative of x^2 + 4x.
+Write a function to check if a string is a palindrome.
+Explain how arrays work in programming.
+Find the mean of the numbers 10, 20, 30, 40.
+Write pseudocode for linear search.
+Explain recursion with factorial example.
+Solve a system of linear equations with substitution.
+Analyze the complexity of binary search.
+Write a function to sort a list.
+Explain how queues work.
+Compute the area of a triangle using coordinates.
+Debug a function with incorrect output.
+Explain modular arithmetic with examples.
+Write a function to count vowels in a string.
+Prove that the square root of 2 is irrational.
+Implement dynamic programming for the knapsack problem.
+Analyze the time and space complexity of quicksort.
+Solve a constrained optimization problem using calculus.
+Design a concurrency-safe queue.
+Explain alpha-beta pruning in game trees.
+Write a parser for arithmetic expressions.
+Solve a logic puzzle involving multiple constraints.
+Prove correctness of an algorithm using induction.
+Implement a shortest-path algorithm and analyze it.
+Explain the halting problem and its implications.
+Solve a minimax problem in game theory.
+Design a compiler optimization pass.
+Analyze a cryptographic protocol for weaknesses.
+Prove NP-completeness of a decision problem.
+Prove that there are infinitely many prime numbers.
+Implement merge sort and analyze its complexity.
+Solve a nonlinear optimization problem.
+Design a thread-safe data structure.
+Explain backtracking with an example problem.
+Write an interpreter for a simple language.
+Prove correctness of quicksort.
+Implement Dijkstra’s algorithm.
+Analyze a hashing function for collisions.
+Design a distributed locking mechanism.
+Explain complexity classes P vs NP.
+Solve a constraint satisfaction problem.
+Design a garbage collection algorithm.
+Analyze security of a symmetric encryption scheme.
+Prove convergence of a numerical method.

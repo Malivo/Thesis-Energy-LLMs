@@ -1,0 +1,90 @@
+Przelicz 25 stopni Celsjusza na stopnie Fahrenheita i wyjaśnij każdy krok.
+Wypisz kroki potrzebne do zrobienia filiżanki herbaty.
+Wyjaśnij, jak działa fotosynteza, w prostych etapach.
+Mając dwie liczby, wyjaśnij, jak ustalić, która jest większa.
+Opisz kroki związane z logowaniem się do konta e-mail.
+Wyjaśnij, jak obliczyć pole prostokąta.
+Opisz etapy obiegu wody w przyrodzie.
+Wyjaśnij, jak posortować listę liczb w porządku rosnącym.
+Opisz, jak ustawa staje się prawem, prostymi słowami.
+Wyjaśnij kroki resetowania zapomnianego hasła.
+Opisz proces recyklingu plastikowych butelek.
+Wyjaśnij, jak sprawdzić, czy liczba jest parzysta czy nieparzysta.
+Opisz, jak działa system sygnalizacji świetlnej.
+Wyjaśnij krok po kroku, jak ugotować jajko.
+Opisz etapy trawienia u człowieka.
+Przelicz 10 kilometrów na metry.
+Wyjaśnij, jak liczyć od 1 do 20.
+Opisz, jak prawidłowo myć zęby.
+Wyjaśnij, jak rozpoznać rzeczownik w zdaniu.
+Wypisz dni tygodnia po kolei.
+Opisz, jak prawidłowo myć ręce.
+Wyjaśnij, jak użyć kalkulatora do dodawania liczb.
+Opisz, jak otworzyć przeglądarkę internetową.
+Wyjaśnij, jak napisać proste zdanie.
+Opisz, jak zawiązać sznurowadła.
+Wyjaśnij, jak rozpoznawać podstawowe kształty.
+Wypisz popularne kolory i opisz je.
+Wyjaśnij, jak używać zegara do odczytywania godziny.
+Opisz, jak spakować plecak szkolny.
+Wyjaśnij, jak postępować zgodnie z prostymi instrukcjami.
+Mając tygodniowy budżet i wydatki, wyjaśnij, jak ustalić oszczędności.
+Porównaj dwa smartfony, przedstawiając kryteria oceny i uzasadnienie.
+Wyjaśnij, jak zaplanować podróż, uwzględniając transport, nocleg i budżet.
+Opisz kroki diagnozowania, dlaczego komputer działa wolno.
+Wyjaśnij, jak przygotować plan nauki do nadchodzącego egzaminu.
+Mając zbiór danych, wyjaśnij, jak obliczyć średnią i medianę.
+Przedstaw kroki projektowania podstawowej strony internetowej.
+Wyjaśnij, jak działa łańcuch dostaw od surowca do konsumenta.
+Opisz, jak rozwiązać problem z połączeniem Wi-Fi.
+Wyjaśnij, jak zdecydować między wynajmem a kupnem domu.
+Przedstaw plan ugotowania trzydaniowego posiłku.
+Wyjaśnij tok rozumowania potrzebny do rozwiązania równania kwadratowego.
+Opisz, jak skutecznie zarządzać czasem podczas pracowitego tygodnia.
+Wyjaśnij na wysokim poziomie, jak działa system rekomendacji.
+Opisz kroki związane z przeprowadzaniem ankiety.
+Wyjaśnij, jak stworzyć miesięczny plan budżetu.
+Opisz, jak porównywać ceny podczas zakupów.
+Wyjaśnij, jak organizować zadania za pomocą listy rzeczy do zrobienia.
+Opisz, jak oceniać różne oferty pracy.
+Wyjaśnij, jak obliczyć odsetki od pożyczki.
+Opisz, jak zaplanować weekendowy plan wyjazdu.
+Wyjaśnij, jak analizować wyniki ankiety.
+Opisz, jak przygotować się do rozmowy kwalifikacyjnej.
+Wyjaśnij, jak śledzić wydatki w czasie.
+Opisz, jak wybrać między wieloma projektami.
+Wyjaśnij, jak skutecznie ustalać priorytety zadań.
+Opisz, jak oceniać internetowe źródła informacji.
+Wyjaśnij, jak napisać uporządkowany raport.
+Opisz, jak analizować trendy w danych.
+Wyjaśnij, jak zarządzać projektem zespołowym.
+Przeanalizuj przyczyny zmian klimatu i zaproponuj strategie łagodzenia ich skutków.
+Zaprojektuj plan reagowania na katastrofy z udziałem wielu agencji.
+Wyjaśnij, jak polityka pieniężna wpływa na inflację i zatrudnienie.
+Oceń kompromisy etyczne związane z wdrażaniem systemów rozpoznawania twarzy.
+Zaprojektuj wieloetapowy eksperyment do przetestowania hipotezy naukowej.
+Wyjaśnij, jak zoptymalizować przepływ ruchu w dużym mieście.
+Przeanalizuj kroki wymagane do międzynarodowego skalowania startupu.
+Zaproponuj reformę polityki zdrowotnej i uzasadnij każdy jej element.
+Wyjaśnij schemat rozumowania stojący za podejmowaniem decyzji przez pojazdy autonomiczne.
+Przeanalizuj wskaźniki ekonomiczne, aby przewidzieć recesję.
+Zaprojektuj program nauczania programowania dla początkujących.
+Wyjaśnij, jak rozprzestrzenia się dezinformacja i jak jej przeciwdziałać.
+Zaproponuj plan transformacji energetycznej dla kraju rozwijającego się.
+Przeanalizuj etapy związane z opracowywaniem szczepionki.
+Zaprojektuj wielokryterialny model decyzyjny do zatrudniania pracowników.
+Przeanalizuj wpływ globalizacji na lokalne gospodarki.
+Zaprojektuj skalowalną architekturę dla aplikacji internetowej.
+Oceń kompromisy związane z wdrażaniem energii odnawialnej.
+Zaproponuj strategię zmniejszenia zatłoczenia w miastach.
+Przeanalizuj etyczne implikacje AI w opiece zdrowotnej.
+Zaprojektuj ramy oceny ryzyka w finansach.
+Wyjaśnij wyzwania systemów rozproszonych działających na dużą skalę.
+Oceń opcje polityczne dotyczące przeciwdziałania nierówności dochodowych.
+Przeanalizuj czynniki wpływające na międzynarodowe umowy handlowe.
+Zaprojektuj system do przetwarzania danych w czasie rzeczywistym.
+Wyjaśnij ekonomię szoków popytowych i podażowych.
+Oceń różne modele ładu korporacyjnego.
+Przeanalizuj wpływ automatyzacji na zatrudnienie.
+Zaproponuj ramy ograniczania ryzyka cyberbezpieczeństwa.
+Wyjaśnij, jak zrównoważyć innowacje i regulacje w technologii.

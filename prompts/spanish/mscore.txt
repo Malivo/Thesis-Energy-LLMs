@@ -1,0 +1,90 @@
+Convierte 25 grados Celsius a Fahrenheit y explica cada paso.
+Enumera los pasos necesarios para hacer una taza de té.
+Explica cómo funciona la fotosíntesis en etapas simples.
+Dados dos números, explica cómo determinar cuál es mayor.
+Describe los pasos necesarios para iniciar sesión en una cuenta de correo electrónico.
+Explica cómo calcular el área de un rectángulo.
+Describe las etapas del ciclo del agua.
+Explica cómo ordenar una lista de números en orden ascendente.
+Describe cómo un proyecto de ley se convierte en ley en términos simples.
+Explica los pasos para restablecer una contraseña olvidada.
+Describe el proceso de reciclaje de botellas de plástico.
+Explica cómo comprobar si un número es par o impar.
+Describe cómo funciona un sistema de semáforos.
+Explica cómo hervir un huevo paso a paso.
+Describe las etapas de la digestión humana.
+Convierte 10 kilómetros a metros.
+Explica cómo contar del 1 al 20.
+Describe cómo cepillarte los dientes correctamente.
+Explica cómo identificar un sustantivo en una oración.
+Enumera los días de la semana en orden.
+Describe cómo lavarte las manos correctamente.
+Explica cómo usar una calculadora para sumar números.
+Describe cómo abrir un navegador web.
+Explica cómo escribir una oración simple.
+Describe cómo atarte los cordones de los zapatos.
+Explica cómo reconocer formas básicas.
+Enumera los colores comunes y descríbelos.
+Explica cómo usar un reloj para decir la hora.
+Describe cómo preparar una mochila escolar.
+Explica cómo seguir instrucciones simples.
+Dado un presupuesto semanal y los gastos, explica cómo determinar los ahorros.
+Compara dos teléfonos inteligentes describiendo los criterios de evaluación y el razonamiento.
+Explica cómo planificar un viaje, incluyendo transporte, alojamiento y presupuesto.
+Describe los pasos para diagnosticar por qué una computadora funciona lentamente.
+Explica cómo preparar un plan de estudio para un próximo examen.
+Dado un conjunto de datos, explica cómo calcular la media y la mediana.
+Describe los pasos para diseñar un sitio web básico.
+Explica cómo funciona una cadena de suministro desde la materia prima hasta el consumidor.
+Describe cómo solucionar un problema de conexión Wi‑Fi.
+Explica cómo decidir entre alquilar y comprar una vivienda.
+Describe un plan para cocinar una comida de tres platos.
+Explica los pasos de razonamiento para resolver una ecuación cuadrática.
+Describe cómo gestionar el tiempo de manera efectiva durante una semana ocupada.
+Explica cómo funciona un sistema de recomendación a alto nivel.
+Describe los pasos necesarios para realizar una encuesta.
+Explica cómo crear un plan de presupuesto mensual.
+Describe cómo comparar precios al comprar.
+Explica cómo organizar tareas usando una lista de tareas pendientes.
+Describe cómo evaluar diferentes ofertas de trabajo.
+Explica cómo calcular los intereses de un préstamo.
+Describe cómo planificar un itinerario de fin de semana.
+Explica cómo analizar los resultados de una encuesta.
+Describe cómo prepararte para una entrevista de trabajo.
+Explica cómo hacer seguimiento de los gastos a lo largo del tiempo.
+Describe cómo elegir entre múltiples proyectos.
+Explica cómo priorizar tareas de manera efectiva.
+Describe cómo evaluar fuentes de información en línea.
+Explica cómo redactar un informe estructurado.
+Describe cómo analizar tendencias en los datos.
+Explica cómo gestionar un proyecto de equipo.
+Analiza las causas del cambio climático y propone estrategias de mitigación.
+Diseña un plan de respuesta ante desastres que involucre a múltiples agencias.
+Explica cómo la política monetaria afecta la inflación y el empleo.
+Evalúa las compensaciones éticas en el despliegue de sistemas de reconocimiento facial.
+Diseña un experimento de múltiples etapas para probar una hipótesis científica.
+Explica cómo optimizar el flujo de tráfico en una gran ciudad.
+Analiza los pasos necesarios para expandir una startup internacionalmente.
+Propón una reforma de política sanitaria y justifica cada componente.
+Explica la cadena de razonamiento detrás de la toma de decisiones de los vehículos autónomos.
+Analiza indicadores económicos para pronosticar una recesión.
+Diseña un plan de estudios para enseñar programación a principiantes.
+Explica cómo se difunde la desinformación y cómo contrarrestarla.
+Propón un plan de transición energética para un país en desarrollo.
+Analiza las etapas involucradas en el desarrollo de vacunas.
+Diseña un modelo de decisión multicriterio para la contratación de empleados.
+Analiza el impacto de la globalización en las economías locales.
+Diseña una arquitectura escalable para una aplicación web.
+Evalúa las compensaciones en la adopción de energías renovables.
+Propón una estrategia para reducir la congestión urbana.
+Analiza las implicaciones éticas de la IA en la atención sanitaria.
+Diseña un marco para la evaluación de riesgos en finanzas.
+Explica los desafíos de los sistemas distribuidos a gran escala.
+Evalúa opciones de política para abordar la desigualdad de ingresos.
+Analiza los factores que influyen en los acuerdos comerciales internacionales.
+Diseña un sistema para el procesamiento de datos en tiempo real.
+Explica la economía de los choques de oferta y demanda.
+Evalúa diferentes modelos de gobierno corporativo.
+Analiza el impacto de la automatización en el empleo.
+Propón un marco para la mitigación del riesgo de ciberseguridad.
+Explica cómo equilibrar la innovación y la regulación en tecnología.

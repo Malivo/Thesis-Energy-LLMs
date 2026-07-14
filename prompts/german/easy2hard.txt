@@ -1,0 +1,90 @@
+Berechne 7 + 8.
+Multipliziere 6 mit 9.
+Finde das Quadrat von 12.
+Wandle 100 Zentimeter in Meter um.
+Bestimme, ob 15 eine gerade Zahl ist.
+Finde die größte von drei Zahlen: 4, 9, 2.
+Berechne den Umfang eines Quadrats mit der Seitenlänge 5.
+Wandle 2 Stunden in Minuten um.
+Finde den Durchschnitt von 2, 4 und 6.
+Subtrahiere 18 von 42.
+Schreibe eine Python-Funktion, die die Summe von zwei Zahlen zurückgibt.
+Gib die Zahlen von 1 bis 10 mit einer Schleife aus.
+Erkläre, was eine Variable in der Programmierung ist.
+Bestimme die Ausgabe von: print(3 * 4).
+Beschreibe, was eine if-Anweisung macht.
+Addiere 12 und 15.
+Multipliziere 4 mit 7.
+Finde die dritte Potenz von 3.
+Wandle 500 Gramm in Kilogramm um.
+Bestimme, ob 22 ungerade oder gerade ist.
+Finde die kleinste von 8, 3 und 10.
+Berechne die Fläche eines Quadrats mit der Seitenlänge 6.
+Wandle 3 Tage in Stunden um.
+Finde die Summe von 5, 10 und 15.
+Subtrahiere 25 von 60.
+Gib die Zahlen von 10 bis 20 aus.
+Erkläre, was eine Konstante in der Programmierung ist.
+Bestimme die Ausgabe von: print(5 + 2).
+Beschreibe, was eine Schleife macht.
+Schreibe eine einfache Funktion, die eine Zahl zurückgibt.
+Löse die Gleichung xÂ² âˆ’ 5x + 6 = 0.
+Finde die Ableitung von 3xÂ² + 2x.
+Schreibe eine Python-Funktion, um zu prüfen, ob eine Zahl eine Primzahl ist.
+Erkläre den Unterschied zwischen einer Liste und einem Wörterbuch.
+Finde den Median der Zahlen 3, 7, 9, 15, 21.
+Schreibe Pseudocode für die binäre Suche.
+Erkläre anhand eines Beispiels, wie Rekursion funktioniert.
+Löse ein System aus zwei linearen Gleichungen.
+Analysiere die Zeitkomplexität der linearen Suche.
+Schreibe eine Funktion, um eine Zeichenkette umzukehren.
+Erkläre, wie eine Stapel-Datenstruktur funktioniert.
+Berechne die Fläche unter einer linearen Kurve mithilfe der Integration.
+Debugge eine Schleife, die unendlich läuft.
+Erkläre das Konzept der modularen Arithmetik.
+Schreibe eine Funktion, die Fibonacci-Zahlen berechnet.
+Löse die Gleichung 2x + 3 = 11.
+Finde die Ableitung von x^2 + 4x.
+Schreibe eine Funktion, um zu prüfen, ob eine Zeichenkette ein Palindrom ist.
+Erkläre, wie Arrays in der Programmierung funktionieren.
+Finde das arithmetische Mittel der Zahlen 10, 20, 30, 40.
+Schreibe Pseudocode für die lineare Suche.
+Erkläre Rekursion am Beispiel der Fakultät.
+Löse ein System linearer Gleichungen mit dem Einsetzungsverfahren.
+Analysiere die Komplexität der binären Suche.
+Schreibe eine Funktion, um eine Liste zu sortieren.
+Erkläre, wie Warteschlangen funktionieren.
+Berechne die Fläche eines Dreiecks mithilfe von Koordinaten.
+Debugge eine Funktion mit falscher Ausgabe.
+Erkläre modulare Arithmetik mit Beispielen.
+Schreibe eine Funktion, um Vokale in einer Zeichenkette zu zählen.
+Beweise, dass die Quadratwurzel von 2 irrational ist.
+Implementiere dynamische Programmierung für das Rucksackproblem.
+Analysiere die Zeit- und Speicherkomplexität von Quicksort.
+Löse ein Optimierungsproblem mit Nebenbedingungen mithilfe der Analysis.
+Entwirf eine nebenläufigkeitssichere Warteschlange.
+Erkläre Alpha-Beta-Pruning in Spielbäumen.
+Schreibe einen Parser für arithmetische Ausdrücke.
+Löse ein Logikrätsel mit mehreren Einschränkungen.
+Beweise die Korrektheit eines Algorithmus mittels Induktion.
+Implementiere einen Kürzeste-Wege-Algorithmus und analysiere ihn.
+Erkläre das Halteproblem und seine Auswirkungen.
+Löse ein Minimax-Problem in der Spieltheorie.
+Entwirf einen Compiler-Optimierungsdurchlauf.
+Analysiere ein kryptographisches Protokoll auf Schwachstellen.
+Beweise die NP-Vollständigkeit eines Entscheidungsproblems.
+Beweise, dass es unendlich viele Primzahlen gibt.
+Implementiere Mergesort und analysiere seine Komplexität.
+Löse ein nichtlineares Optimierungsproblem.
+Entwirf eine threadsichere Datenstruktur.
+Erkläre Backtracking anhand eines Beispielproblems.
+Schreibe einen Interpreter für eine einfache Sprache.
+Beweise die Korrektheit von Quicksort.
+Implementiere Dijkstraâ€™s Algorithmus.
+Analysiere eine Hashfunktion auf Kollisionen.
+Entwirf einen verteilten Sperrmechanismus.
+Erkläre die Komplexitätsklassen P vs NP.
+Löse ein Constraint-Satisfaction-Problem.
+Entwirf einen Garbage-Collection-Algorithmus.
+Analysiere die Sicherheit eines symmetrischen Verschlüsselungsschemas.
+Beweise die Konvergenz eines numerischen Verfahrens.

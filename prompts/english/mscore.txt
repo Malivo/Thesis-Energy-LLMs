@@ -1,0 +1,90 @@
+Convert 25 degrees Celsius to Fahrenheit and explain each step.
+List the steps required to make a cup of tea.
+Explain how photosynthesis works in simple stages.
+Given two numbers, explain how to determine which is larger.
+Describe the steps involved in logging into an email account.
+Explain how to calculate the area of a rectangle.
+Describe the stages of the water cycle.
+Explain how to sort a list of numbers in ascending order.
+Describe how a bill becomes a law in simple terms.
+Explain the steps to reset a forgotten password.
+Describe the process of recycling plastic bottles.
+Explain how to check if a number is even or odd.
+Describe how a traffic light system works.
+Explain how to boil an egg step by step.
+Describe the stages of human digestion.
+Convert 10 kilometers to meters.
+Explain how to count from 1 to 20.
+Describe how to brush your teeth properly.
+Explain how to identify a noun in a sentence.
+List the days of the week in order.
+Describe how to wash your hands correctly.
+Explain how to use a calculator to add numbers.
+Describe how to open a web browser.
+Explain how to write a simple sentence.
+Describe how to tie your shoelaces.
+Explain how to recognize basic shapes.
+List common colors and describe them.
+Explain how to use a clock to tell time.
+Describe how to pack a school bag.
+Explain how to follow simple instructions.
+Given a weekly budget and expenses, explain how to determine savings.
+Compare two smartphones by outlining evaluation criteria and reasoning.
+Explain how to plan a trip including transportation, lodging, and budget.
+Describe the steps to diagnose why a computer is running slowly.
+Explain how to prepare a study plan for an upcoming exam.
+Given a dataset, explain how to compute the mean and median.
+Outline the steps to design a basic website.
+Explain how a supply chain works from raw material to consumer.
+Describe how to troubleshoot a Wi-Fi connection problem.
+Explain how to decide between renting and buying a home.
+Outline a plan to cook a three-course meal.
+Explain the reasoning steps to solve a quadratic equation.
+Describe how to manage time effectively during a busy week.
+Explain how a recommendation system works at a high level.
+Describe the steps involved in conducting a survey.
+Explain how to create a monthly budget plan.
+Describe how to compare prices when shopping.
+Explain how to organize tasks using a to-do list.
+Describe how to evaluate different job offers.
+Explain how to calculate interest on a loan.
+Describe how to plan a weekend itinerary.
+Explain how to analyze survey results.
+Describe how to prepare for a job interview.
+Explain how to track expenses over time.
+Describe how to choose between multiple projects.
+Explain how to prioritize tasks effectively.
+Describe how to evaluate online information sources.
+Explain how to write a structured report.
+Describe how to analyze trends in data.
+Explain how to manage a team project.
+Analyze the causes of climate change and propose mitigation strategies.
+Design a disaster response plan involving multiple agencies.
+Explain how monetary policy affects inflation and employment.
+Evaluate ethical trade-offs in deploying facial recognition systems.
+Design a multi-stage experiment to test a scientific hypothesis.
+Explain how to optimize traffic flow in a large city.
+Analyze the steps required to scale a startup internationally.
+Propose a healthcare policy reform and justify each component.
+Explain the reasoning pipeline behind autonomous vehicle decision-making.
+Analyze economic indicators to forecast a recession.
+Design a curriculum for teaching programming to beginners.
+Explain how misinformation spreads and how to counteract it.
+Propose an energy transition plan for a developing country.
+Analyze the stages involved in vaccine development.
+Design a multi-criteria decision model for hiring employees.
+Analyze the impact of globalization on local economies.
+Design a scalable architecture for a web application.
+Evaluate trade-offs in renewable energy adoption.
+Propose a strategy for reducing urban congestion.
+Analyze the ethical implications of AI in healthcare.
+Design a framework for risk assessment in finance.
+Explain the challenges of distributed systems at scale.
+Evaluate policy options for addressing income inequality.
+Analyze factors influencing international trade agreements.
+Design a system for real-time data processing.
+Explain the economics of supply and demand shocks.
+Evaluate different models of corporate governance.
+Analyze the impact of automation on employment.
+Propose a framework for cybersecurity risk mitigation.
+Explain how to balance innovation and regulation in tech.

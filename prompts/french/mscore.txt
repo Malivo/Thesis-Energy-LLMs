@@ -1,0 +1,90 @@
+Convertissez 25 degrés Celsius en Fahrenheit et expliquez chaque étape.
+Énumérez les étapes nécessaires pour préparer une tasse de thé.
+Expliquez comment fonctionne la photosynthèse en étapes simples.
+Étant donné deux nombres, expliquez comment déterminer lequel est le plus grand.
+Décrivez les étapes nécessaires pour se connecter à un compte de messagerie.
+Expliquez comment calculer l’aire d’un rectangle.
+Décrivez les étapes du cycle de l’eau.
+Expliquez comment trier une liste de nombres par ordre croissant.
+Décrivez en termes simples comment un projet de loi devient une loi.
+Expliquez les étapes pour réinitialiser un mot de passe oublié.
+Décrivez le processus de recyclage des bouteilles en plastique.
+Expliquez comment vérifier si un nombre est pair ou impair.
+Décrivez comment fonctionne un système de feux de circulation.
+Expliquez comment faire bouillir un œuf étape par étape.
+Décrivez les étapes de la digestion humaine.
+Convertissez 10 kilomètres en mètres.
+Expliquez comment compter de 1 à 20.
+Décrivez comment vous brosser les dents correctement.
+Expliquez comment identifier un nom dans une phrase.
+Énumérez les jours de la semaine dans l’ordre.
+Décrivez comment vous laver les mains correctement.
+Expliquez comment utiliser une calculatrice pour additionner des nombres.
+Décrivez comment ouvrir un navigateur web.
+Expliquez comment écrire une phrase simple.
+Décrivez comment nouer vos lacets.
+Expliquez comment reconnaître les formes de base.
+Énumérez les couleurs courantes et décrivez-les.
+Expliquez comment utiliser une horloge pour lire l’heure.
+Décrivez comment préparer un cartable.
+Expliquez comment suivre des instructions simples.
+Étant donné un budget hebdomadaire et des dépenses, expliquez comment déterminer les économies.
+Comparez deux smartphones en présentant les critères d’évaluation et le raisonnement.
+Expliquez comment planifier un voyage, y compris le transport, l’hébergement et le budget.
+Décrivez les étapes pour diagnostiquer pourquoi un ordinateur fonctionne lentement.
+Expliquez comment préparer un plan d’étude pour un examen à venir.
+Étant donné un ensemble de données, expliquez comment calculer la moyenne et la médiane.
+Présentez les étapes pour concevoir un site web basique.
+Expliquez comment fonctionne une chaîne d’approvisionnement, de la matière première au consommateur.
+Décrivez comment résoudre un problème de connexion Wi-Fi.
+Expliquez comment décider entre louer et acheter un logement.
+Présentez un plan pour cuisiner un repas en trois services.
+Expliquez les étapes de raisonnement pour résoudre une équation quadratique.
+Décrivez comment gérer efficacement votre temps pendant une semaine chargée.
+Expliquez à un niveau élevé comment fonctionne un système de recommandation.
+Décrivez les étapes nécessaires à la réalisation d’une enquête.
+Expliquez comment créer un plan budgétaire mensuel.
+Décrivez comment comparer les prix lors de vos achats.
+Expliquez comment organiser des tâches à l’aide d’une liste de choses à faire.
+Décrivez comment évaluer différentes offres d’emploi.
+Expliquez comment calculer les intérêts sur un prêt.
+Décrivez comment planifier un itinéraire pour le week-end.
+Expliquez comment analyser les résultats d’une enquête.
+Décrivez comment vous préparer à un entretien d’embauche.
+Expliquez comment suivre les dépenses au fil du temps.
+Décrivez comment choisir entre plusieurs projets.
+Expliquez comment hiérarchiser efficacement les tâches.
+Décrivez comment évaluer les sources d’information en ligne.
+Expliquez comment rédiger un rapport structuré.
+Décrivez comment analyser les tendances dans les données.
+Expliquez comment gérer un projet d’équipe.
+Analysez les causes du changement climatique et proposez des stratégies d’atténuation.
+Concevez un plan d’intervention en cas de catastrophe impliquant plusieurs agences.
+Expliquez comment la politique monétaire affecte l’inflation et l’emploi.
+Évaluez les compromis éthiques liés au déploiement de systèmes de reconnaissance faciale.
+Concevez une expérience en plusieurs étapes pour tester une hypothèse scientifique.
+Expliquez comment optimiser la circulation dans une grande ville.
+Analysez les étapes nécessaires pour développer une startup à l’international.
+Proposez une réforme de la politique de santé et justifiez chacun de ses éléments.
+Expliquez la chaîne de raisonnement derrière la prise de décision des véhicules autonomes.
+Analysez les indicateurs économiques pour prévoir une récession.
+Concevez un programme d’enseignement de la programmation pour débutants.
+Expliquez comment la désinformation se propage et comment la contrer.
+Proposez un plan de transition énergétique pour un pays en développement.
+Analysez les étapes impliquées dans le développement d’un vaccin.
+Concevez un modèle de décision multicritère pour le recrutement d’employés.
+Analysez l’impact de la mondialisation sur les économies locales.
+Concevez une architecture évolutive pour une application web.
+Évaluez les compromis liés à l’adoption des énergies renouvelables.
+Proposez une stratégie pour réduire la congestion urbaine.
+Analysez les implications éthiques de l’IA dans les soins de santé.
+Concevez un cadre pour l’évaluation des risques en finance.
+Expliquez les défis des systèmes distribués à grande échelle.
+Évaluez les options politiques pour lutter contre les inégalités de revenus.
+Analysez les facteurs influençant les accords commerciaux internationaux.
+Concevez un système de traitement des données en temps réel.
+Expliquez l’économie des chocs d’offre et de demande.
+Évaluez différents modèles de gouvernance d’entreprise.
+Analysez l’impact de l’automatisation sur l’emploi.
+Proposez un cadre pour l’atténuation des risques de cybersécurité.
+Expliquez comment équilibrer innovation et régulation dans la technologie.

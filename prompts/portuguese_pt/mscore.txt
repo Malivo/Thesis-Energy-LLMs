@@ -1,0 +1,90 @@
+Converta 25 graus Celsius em Fahrenheit e explique cada passo.
+Liste os passos necessários para fazer uma chávena de chá.
+Explique como funciona a fotossíntese em etapas simples.
+Dados dois números, explique como determinar qual é maior.
+Descreva os passos envolvidos em iniciar sessão numa conta de email.
+Explique como calcular a área de um retângulo.
+Descreva as etapas do ciclo da água.
+Explique como ordenar uma lista de números por ordem crescente.
+Descreva como uma proposta de lei se torna lei em termos simples.
+Explique os passos para redefinir uma palavra-passe esquecida.
+Descreva o processo de reciclagem de garrafas de plástico.
+Explique como verificar se um número é par ou ímpar.
+Descreva como funciona um sistema de semáforos.
+Explique como cozer um ovo passo a passo.
+Descreva as etapas da digestão humana.
+Converta 10 quilómetros em metros.
+Explique como contar de 1 a 20.
+Descreva como escovar os dentes corretamente.
+Explique como identificar um nome numa frase.
+Liste os dias da semana por ordem.
+Descreva como lavar as mãos corretamente.
+Explique como usar uma calculadora para somar números.
+Descreva como abrir um navegador web.
+Explique como escrever uma frase simples.
+Descreva como atar os atacadores.
+Explique como reconhecer formas básicas.
+Liste cores comuns e descreva-as.
+Explique como usar um relógio para dizer as horas.
+Descreva como arrumar uma mochila escolar.
+Explique como seguir instruções simples.
+Dado um orçamento semanal e despesas, explique como determinar as poupanças.
+Compare dois smartphones descrevendo os critérios de avaliação e o raciocínio.
+Explique como planear uma viagem incluindo transporte, alojamento e orçamento.
+Descreva os passos para diagnosticar por que motivo um computador está a funcionar lentamente.
+Explique como preparar um plano de estudo para um exame próximo.
+Dado um conjunto de dados, explique como calcular a média e a mediana.
+Descreva os passos para conceber um website básico.
+Explique como funciona uma cadeia de abastecimento desde a matéria-prima até ao consumidor.
+Descreva como resolver um problema de ligação Wi‑Fi.
+Explique como decidir entre arrendar e comprar uma casa.
+Descreva um plano para cozinhar uma refeição de três pratos.
+Explique as etapas de raciocínio para resolver uma equação quadrática.
+Descreva como gerir o tempo de forma eficaz durante uma semana ocupada.
+Explique como funciona um sistema de recomendação a um nível geral.
+Descreva os passos envolvidos na realização de um inquérito.
+Explique como criar um plano de orçamento mensal.
+Descreva como comparar preços ao fazer compras.
+Explique como organizar tarefas usando uma lista de afazeres.
+Descreva como avaliar diferentes ofertas de emprego.
+Explique como calcular os juros de um empréstimo.
+Descreva como planear um itinerário de fim de semana.
+Explique como analisar resultados de inquéritos.
+Descreva como preparar-se para uma entrevista de emprego.
+Explique como acompanhar despesas ao longo do tempo.
+Descreva como escolher entre vários projetos.
+Explique como priorizar tarefas de forma eficaz.
+Descreva como avaliar fontes de informação online.
+Explique como escrever um relatório estruturado.
+Descreva como analisar tendências nos dados.
+Explique como gerir um projeto de equipa.
+Analise as causas das alterações climáticas e proponha estratégias de mitigação.
+Conceba um plano de resposta a catástrofes envolvendo várias agências.
+Explique como a política monetária afeta a inflação e o emprego.
+Avalie os compromissos éticos na implementação de sistemas de reconhecimento facial.
+Conceba uma experiência de várias etapas para testar uma hipótese científica.
+Explique como otimizar o fluxo de tráfego numa grande cidade.
+Analise os passos necessários para expandir uma startup internacionalmente.
+Proponha uma reforma da política de saúde e justifique cada componente.
+Explique a cadeia de raciocínio por trás da tomada de decisão de veículos autónomos.
+Analise indicadores económicos para prever uma recessão.
+Conceba um currículo para ensinar programação a principiantes.
+Explique como a desinformação se espalha e como a contrariar.
+Proponha um plano de transição energética para um país em desenvolvimento.
+Analise as etapas envolvidas no desenvolvimento de vacinas.
+Conceba um modelo de decisão multicritério para contratar funcionários.
+Analise o impacto da globalização nas economias locais.
+Conceba uma arquitetura escalável para uma aplicação web.
+Avalie os compromissos na adoção de energias renováveis.
+Proponha uma estratégia para reduzir o congestionamento urbano.
+Analise as implicações éticas da IA na saúde.
+Conceba uma estrutura para avaliação de risco em finanças.
+Explique os desafios dos sistemas distribuídos em grande escala.
+Avalie opções de política para enfrentar a desigualdade de rendimentos.
+Analise fatores que influenciam acordos comerciais internacionais.
+Conceba um sistema para processamento de dados em tempo real.
+Explique a economia dos choques de oferta e procura.
+Avalie diferentes modelos de governação empresarial.
+Analise o impacto da automação no emprego.
+Proponha uma estrutura para mitigação do risco de cibersegurança.
+Explique como equilibrar inovação e regulação na tecnologia.

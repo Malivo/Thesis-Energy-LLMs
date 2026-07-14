@@ -1,0 +1,90 @@
+Wandle 25 Grad Celsius in Fahrenheit um und erkläre jeden Schritt.
+Liste die Schritte auf, die erforderlich sind, um eine Tasse Tee zu machen.
+Erkläre in einfachen Stufen, wie die Photosynthese funktioniert.
+Gegeben zwei Zahlen, erkläre, wie man bestimmt, welche größer ist.
+Beschreibe die Schritte, die beim Einloggen in ein E-Mail-Konto erforderlich sind.
+Erkläre, wie man die Fläche eines Rechtecks berechnet.
+Beschreibe die Phasen des Wasserkreislaufs.
+Erkläre, wie man eine Liste von Zahlen in aufsteigender Reihenfolge sortiert.
+Beschreibe in einfachen Worten, wie ein Gesetzentwurf zu einem Gesetz wird.
+Erkläre die Schritte zum Zurücksetzen eines vergessenen Passworts.
+Beschreibe den Prozess des Recyclings von Plastikflaschen.
+Erkläre, wie man prüft, ob eine Zahl gerade oder ungerade ist.
+Beschreibe, wie eine Verkehrsampelanlage funktioniert.
+Erkläre Schritt für Schritt, wie man ein Ei kocht.
+Beschreibe die Phasen der menschlichen Verdauung.
+Wandle 10 Kilometer in Meter um.
+Erkläre, wie man von 1 bis 20 zählt.
+Beschreibe, wie man sich richtig die Zähne putzt.
+Erkläre, wie man ein Substantiv in einem Satz erkennt.
+Liste die Wochentage der Reihe nach auf.
+Beschreibe, wie man sich richtig die Hände wäscht.
+Erkläre, wie man einen Taschenrechner benutzt, um Zahlen zu addieren.
+Beschreibe, wie man einen Webbrowser öffnet.
+Erkläre, wie man einen einfachen Satz schreibt.
+Beschreibe, wie man seine Schnürsenkel bindet.
+Erkläre, wie man grundlegende Formen erkennt.
+Liste häufige Farben auf und beschreibe sie.
+Erkläre, wie man eine Uhr benutzt, um die Zeit abzulesen.
+Beschreibe, wie man eine Schultasche packt.
+Erkläre, wie man einfachen Anweisungen folgt.
+Gegeben ein Wochenbudget und Ausgaben, erkläre, wie man die Ersparnisse bestimmt.
+Vergleiche zwei Smartphones, indem du Bewertungskriterien und Begründungen darlegst.
+Erkläre, wie man eine Reise plant, einschließlich Transport, Unterkunft und Budget.
+Beschreibe die Schritte zur Diagnose, warum ein Computer langsam läuft.
+Erkläre, wie man einen Lernplan für eine bevorstehende Prüfung erstellt.
+Gegeben ein Datensatz, erkläre, wie man den Mittelwert und den Median berechnet.
+Skizziere die Schritte zum Entwerfen einer einfachen Website.
+Erkläre, wie eine Lieferkette vom Rohmaterial bis zum Verbraucher funktioniert.
+Beschreibe, wie man ein WLAN-Verbindungsproblem behebt.
+Erkläre, wie man zwischen Mieten und Kaufen eines Hauses entscheidet.
+Skizziere einen Plan, um ein Drei-Gänge-Menü zu kochen.
+Erkläre die Denkschritte zum Lösen einer quadratischen Gleichung.
+Beschreibe, wie man während einer arbeitsreichen Woche seine Zeit effektiv einteilt.
+Erkläre auf hoher Ebene, wie ein Empfehlungssystem funktioniert.
+Beschreibe die Schritte, die bei der Durchführung einer Umfrage erforderlich sind.
+Erkläre, wie man einen monatlichen Budgetplan erstellt.
+Beschreibe, wie man beim Einkaufen Preise vergleicht.
+Erkläre, wie man Aufgaben mithilfe einer To-do-Liste organisiert.
+Beschreibe, wie man verschiedene Stellenangebote bewertet.
+Erkläre, wie man Zinsen für ein Darlehen berechnet.
+Beschreibe, wie man einen Wochenendplan erstellt.
+Erkläre, wie man Umfrageergebnisse analysiert.
+Beschreibe, wie man sich auf ein Vorstellungsgespräch vorbereitet.
+Erkläre, wie man Ausgaben im Laufe der Zeit nachverfolgt.
+Beschreibe, wie man zwischen mehreren Projekten auswählt.
+Erkläre, wie man Aufgaben effektiv priorisiert.
+Beschreibe, wie man Online-Informationsquellen bewertet.
+Erkläre, wie man einen strukturierten Bericht schreibt.
+Beschreibe, wie man Trends in Daten analysiert.
+Erkläre, wie man ein Teamprojekt leitet.
+Analysiere die Ursachen des Klimawandels und schlage Strategien zur Eindämmung vor.
+Entwirf einen Katastrophenreaktionsplan unter Beteiligung mehrerer Behörden.
+Erkläre, wie Geldpolitik Inflation und Beschäftigung beeinflusst.
+Bewerte ethische Zielkonflikte beim Einsatz von Gesichtserkennungssystemen.
+Entwirf ein mehrstufiges Experiment zum Testen einer wissenschaftlichen Hypothese.
+Erkläre, wie man den Verkehrsfluss in einer großen Stadt optimiert.
+Analysiere die erforderlichen Schritte, um ein Start-up international zu skalieren.
+Schlage eine Reform der Gesundheitspolitik vor und begründe jede Komponente.
+Erkläre die Denkprozesskette hinter der Entscheidungsfindung autonomer Fahrzeuge.
+Analysiere Wirtschaftsindikatoren, um eine Rezession vorherzusagen.
+Entwirf einen Lehrplan, um Anfängern Programmieren beizubringen.
+Erkläre, wie sich Fehlinformationen verbreiten und wie man ihnen entgegenwirken kann.
+Schlage einen Energiewendeplan für ein Entwicklungsland vor.
+Analysiere die Phasen, die an der Impfstoffentwicklung beteiligt sind.
+Entwirf ein Multi-Kriterien-Entscheidungsmodell für die Einstellung von Mitarbeitern.
+Analysiere die Auswirkungen der Globalisierung auf lokale Volkswirtschaften.
+Entwirf eine skalierbare Architektur für eine Webanwendung.
+Bewerte Zielkonflikte bei der Einführung erneuerbarer Energien.
+Schlage eine Strategie zur Verringerung städtischer Überlastung vor.
+Analysiere die ethischen Auswirkungen von KI im Gesundheitswesen.
+Entwirf einen Rahmen für die Risikobewertung im Finanzwesen.
+Erkläre die Herausforderungen verteilter Systeme im großen Maßstab.
+Bewerte politische Optionen zur Bekämpfung von Einkommensungleichheit.
+Analysiere Faktoren, die internationale Handelsabkommen beeinflussen.
+Entwirf ein System zur Echtzeit-Datenverarbeitung.
+Erkläre die Ökonomie von Angebots- und Nachfrageschocks.
+Bewerte verschiedene Modelle der Unternehmensführung.
+Analysiere die Auswirkungen der Automatisierung auf die Beschäftigung.
+Schlage einen Rahmen zur Minderung von Cybersicherheitsrisiken vor.
+Erkläre, wie man Innovation und Regulierung im Technologiebereich ausbalanciert.

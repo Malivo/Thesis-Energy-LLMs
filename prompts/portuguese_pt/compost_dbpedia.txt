@@ -1,0 +1,90 @@
+Encontre a capital da Alemanha.
+Obtenha o ano de nascimento de Albert Einstein.
+Liste as línguas faladas em Espanha.
+Encontre a população de França.
+Obtenha o autor do livro "1984".
+Liste os filmes realizados por Christopher Nolan.
+Encontre o país onde se encontra a Torre Eiffel.
+Obtenha a moeda utilizada no Japão.
+Liste os rios que atravessam a Alemanha.
+Encontre o cônjuge de Barack Obama.
+Obtenha o ano de fundação da Google.
+Liste os álbuns lançados pelos The Beatles.
+Encontre a altura do Monte Evereste.
+Obtenha a capital do Canadá.
+Liste os desportos praticados nos Jogos Olímpicos.
+Encontre a capital de Itália.
+Obtenha o ano de nascimento de Isaac Newton.
+Liste as línguas faladas no Canadá.
+Encontre a população de Itália.
+Obtenha o autor de "To Kill a Mockingbird".
+Liste os filmes realizados por Quentin Tarantino.
+Encontre o país onde se encontra o Coliseu.
+Obtenha a moeda utilizada no Reino Unido.
+Liste os rios de França.
+Encontre o cônjuge de Michelle Obama.
+Obtenha o ano de fundação da Microsoft.
+Liste os álbuns lançados por Adele.
+Encontre a altura do K2.
+Obtenha a capital da Austrália.
+Liste os desportos praticados no Campeonato do Mundo FIFA.
+Encontre atores que participaram em filmes realizados por Steven Spielberg.
+Liste cidades localizadas em países que são membros da UE.
+Obtenha livros escritos por autores nascidos no Reino Unido.
+Encontre universidades localizadas em cidades com mais de um milhão de habitantes.
+Liste filmes lançados após 2000 que ganharam um Óscar.
+Obtenha cientistas que ganharam um Prémio Nobel da Física.
+Encontre empresas fundadas antes de 1950 que ainda estão ativas.
+Liste rios que atravessam mais de um país.
+Obtenha filmes adaptados de romances.
+Encontre políticos que exerceram funções tanto como presidente como vice-presidente.
+Liste músicos que lançaram álbuns em múltiplos géneros.
+Obtenha cidades que acolheram os Jogos Olímpicos de Verão.
+Encontre escritores que também trabalharam como jornalistas.
+Liste museus localizados em capitais.
+Obtenha atletas que competiram em mais de uma modalidade olímpica.
+Encontre atores que participaram em filmes realizados por James Cameron.
+Liste cidades localizadas em países membros da NATO.
+Obtenha livros escritos por autores nascidos nos EUA.
+Encontre universidades em cidades com populações superiores a 500 000.
+Liste filmes lançados após 2010 que ganharam prémios.
+Obtenha cientistas que ganharam Prémios Nobel da Química.
+Encontre empresas fundadas após 2000 que se tornaram globais.
+Liste rios que nascem em montanhas.
+Obtenha filmes baseados em acontecimentos históricos.
+Encontre políticos que ocuparam vários cargos governamentais.
+Liste músicos que colaboraram entre géneros.
+Obtenha cidades que acolheram os Jogos Olímpicos de Inverno.
+Encontre escritores que também trabalharam como professores.
+Liste museus localizados em grandes áreas metropolitanas.
+Obtenha atletas que ganharam medalhas em múltiplos Jogos Olímpicos.
+Encontre universidades com antigos alunos que ganharam Prémios Nobel após 2000.
+Liste cidades que possuem simultaneamente um grande aeroporto e um porto marítimo.
+Obtenha filmes realizados por realizadores que também atuaram nos seus filmes.
+Encontre cientistas que trabalharam em instituições de diferentes países.
+Liste livros traduzidos para mais de 20 línguas.
+Obtenha empresas cujos fundadores nasceram fora do país de constituição.
+Encontre artistas cujas obras estão expostas em múltiplos museus em todo o mundo.
+Liste políticos que exerceram funções governamentais ao longo de diferentes décadas.
+Obtenha equipas desportivas que venceram campeonatos em múltiplas ligas.
+Encontre cidades que são capitais e também sítios do Património Mundial da UNESCO.
+Liste filmes com atores que ganharam prémios por filmes diferentes.
+Obtenha organizações que colaboram com múltiplas agências internacionais.
+Encontre figuras históricas associadas a mais de uma profissão.
+Liste revistas académicas publicadas por universidades com faculdades de medicina.
+Obtenha invenções criadas por inventores que detinham múltiplas patentes.
+Encontre cientistas que colaboraram em múltiplas disciplinas.
+Liste empresas com estruturas de propriedade multinacionais.
+Obtenha filmes que envolvem coproduções internacionais.
+Encontre líderes políticos que influenciaram múltiplos países.
+Liste universidades envolvidas em parcerias globais de investigação.
+Obtenha livros adaptados ao cinema em diferentes línguas.
+Encontre cidades com múltiplos acordos comerciais internacionais.
+Liste organizações que operam em múltiplos continentes.
+Obtenha figuras históricas com influência em diferentes áreas.
+Encontre artistas cujas obras abrangem múltiplos movimentos artísticos.
+Liste revistas com publicações interdisciplinares.
+Obtenha invenções que influenciaram múltiplas indústrias.
+Encontre atletas que competem em ligas internacionais.
+Liste museus com coleções globais.
+Obtenha empresas envolvidas em múltiplos setores em todo o mundo.

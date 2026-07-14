@@ -1,0 +1,90 @@
+Calculez 7 + 8.
+Multipliez 6 par 9.
+Trouvez le carré de 12.
+Convertissez 100 centimètres en mètres.
+Déterminez si 15 est un nombre pair.
+Trouvez le plus grand de trois nombres : 4, 9, 2.
+Calculez le périmètre d’un carré de côté 5.
+Convertissez 2 heures en minutes.
+Trouvez la moyenne de 2, 4 et 6.
+Soustrayez 18 de 42.
+Écrivez une fonction Python qui renvoie la somme de deux nombres.
+Affichez les nombres de 1 à 10 à l’aide d’une boucle.
+Expliquez ce qu’est une variable en programmation.
+Identifiez la sortie de : print(3 * 4).
+Décrivez ce que fait une instruction if.
+Additionnez 12 et 15.
+Multipliez 4 par 7.
+Trouvez le cube de 3.
+Convertissez 500 grammes en kilogrammes.
+Déterminez si 22 est impair ou pair.
+Trouvez le plus petit de 8, 3 et 10.
+Calculez l’aire d’un carré de côté 6.
+Convertissez 3 jours en heures.
+Trouvez la somme de 5, 10 et 15.
+Soustrayez 25 de 60.
+Affichez les nombres de 10 à 20.
+Expliquez ce qu’est une constante en programmation.
+Identifiez la sortie de : print(5 + 2).
+Décrivez ce que fait une boucle.
+Écrivez une fonction simple qui renvoie un nombre.
+Résolvez l’équation xÂ² âˆ’ 5x + 6 = 0.
+Trouvez la dérivée de 3xÂ² + 2x.
+Écrivez une fonction Python pour vérifier si un nombre est premier.
+Expliquez la différence entre une liste et un dictionnaire.
+Trouvez la médiane des nombres 3, 7, 9, 15, 21.
+Écrivez un pseudocode pour la recherche binaire.
+Expliquez comment fonctionne la récursion avec un exemple.
+Résolvez un système de deux équations linéaires.
+Analysez la complexité temporelle de la recherche linéaire.
+Écrivez une fonction pour inverser une chaîne de caractères.
+Expliquez comment fonctionne une structure de données de pile.
+Calculez l’aire sous une courbe linéaire à l’aide de l’intégration.
+Déboguez une boucle qui s’exécute indéfiniment.
+Expliquez le concept de l’arithmétique modulaire.
+Écrivez une fonction qui calcule les nombres de Fibonacci.
+Résolvez l’équation 2x + 3 = 11.
+Trouvez la dérivée de x^2 + 4x.
+Écrivez une fonction pour vérifier si une chaîne est un palindrome.
+Expliquez comment fonctionnent les tableaux en programmation.
+Trouvez la moyenne des nombres 10, 20, 30, 40.
+Écrivez un pseudocode pour la recherche linéaire.
+Expliquez la récursion avec l’exemple de la factorielle.
+Résolvez un système d’équations linéaires par substitution.
+Analysez la complexité de la recherche binaire.
+Écrivez une fonction pour trier une liste.
+Expliquez comment fonctionnent les files d’attente.
+Calculez l’aire d’un triangle à l’aide de coordonnées.
+Déboguez une fonction dont la sortie est incorrecte.
+Expliquez l’arithmétique modulaire avec des exemples.
+Écrivez une fonction pour compter les voyelles dans une chaîne.
+Prouvez que la racine carrée de 2 est irrationnelle.
+Implémentez la programmation dynamique pour le problème du sac à dos.
+Analysez la complexité en temps et en espace du tri rapide.
+Résolvez un problème d’optimisation sous contraintes à l’aide du calcul différentiel.
+Concevez une file d’attente sûre en concurrence.
+Expliquez l’élagage alpha-bêta dans les arbres de jeu.
+Écrivez un analyseur pour des expressions arithmétiques.
+Résolvez une énigme logique impliquant plusieurs contraintes.
+Prouvez la correction d’un algorithme à l’aide de l’induction.
+Implémentez un algorithme de plus court chemin et analysez-le.
+Expliquez le problème de l’arrêt et ses implications.
+Résolvez un problème minimax en théorie des jeux.
+Concevez une passe d’optimisation de compilateur.
+Analysez un protocole cryptographique pour en déceler les faiblesses.
+Prouvez la NP-complétude d’un problème de décision.
+Prouvez qu’il existe une infinité de nombres premiers.
+Implémentez le tri fusion et analysez sa complexité.
+Résolvez un problème d’optimisation non linéaire.
+Concevez une structure de données sûre pour les threads.
+Expliquez le retour sur trace avec un problème d’exemple.
+Écrivez un interpréteur pour un langage simple.
+Prouvez la correction du tri rapide.
+Implémentez l’algorithme de Dijkstraâ€™s.
+Analysez une fonction de hachage pour les collisions.
+Concevez un mécanisme de verrouillage distribué.
+Expliquez les classes de complexité P vs NP.
+Résolvez un problème de satisfaction de contraintes.
+Concevez un algorithme de ramassage des déchets.
+Analysez la sécurité d’un schéma de chiffrement symétrique.
+Prouvez la convergence d’une méthode numérique.

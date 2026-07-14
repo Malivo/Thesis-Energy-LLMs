@@ -1,0 +1,90 @@
+Calcule 7 + 8.
+Multiplique 6 por 9.
+Encontre o quadrado de 12.
+Converta 100 centímetros em metros.
+Determine se 15 é um número par.
+Encontre o maior de três números: 4, 9, 2.
+Calcule o perímetro de um quadrado com lado de comprimento 5.
+Converta 2 horas em minutos.
+Encontre a média de 2, 4 e 6.
+Subtraia 18 de 42.
+Escreva uma função em Python que devolva a soma de dois números.
+Imprima os números de 1 a 10 usando um ciclo.
+Explique o que é uma variável em programação.
+Identifique a saída de: print(3 * 4).
+Descreva o que faz uma instrução if.
+Some 12 e 15.
+Multiplique 4 por 7.
+Encontre o cubo de 3.
+Converta 500 gramas em quilogramas.
+Determine se 22 é ímpar ou par.
+Encontre o menor de 8, 3 e 10.
+Calcule a área de um quadrado com lado 6.
+Converta 3 dias em horas.
+Encontre a soma de 5, 10 e 15.
+Subtraia 25 de 60.
+Imprima os números de 10 a 20.
+Explique o que é uma constante em programação.
+Identifique a saída de: print(5 + 2).
+Descreva o que faz um ciclo.
+Escreva uma função simples que devolva um número.
+Resolva a equação xÂ² âˆ’ 5x + 6 = 0.
+Encontre a derivada de 3xÂ² + 2x.
+Escreva uma função em Python para verificar se um número é primo.
+Explique a diferença entre uma lista e um dicionário.
+Encontre a mediana dos números 3, 7, 9, 15, 21.
+Escreva pseudocódigo para pesquisa binária.
+Explique como funciona a recursão com um exemplo.
+Resolva um sistema de duas equações lineares.
+Analise a complexidade temporal da pesquisa linear.
+Escreva uma função para inverter uma cadeia de caracteres.
+Explique como funciona a estrutura de dados pilha.
+Calcule a área sob uma curva linear usando integração.
+Depure um ciclo que corre indefinidamente.
+Explique o conceito de aritmética modular.
+Escreva uma função que calcule números de Fibonacci.
+Resolva a equação 2x + 3 = 11.
+Encontre a derivada de x^2 + 4x.
+Escreva uma função para verificar se uma cadeia de caracteres é um palíndromo.
+Explique como funcionam os arrays em programação.
+Encontre a média dos números 10, 20, 30, 40.
+Escreva pseudocódigo para pesquisa linear.
+Explique a recursão com o exemplo do fatorial.
+Resolva um sistema de equações lineares por substituição.
+Analise a complexidade da pesquisa binária.
+Escreva uma função para ordenar uma lista.
+Explique como funcionam as filas.
+Calcule a área de um triângulo usando coordenadas.
+Depure uma função com saída incorreta.
+Explique a aritmética modular com exemplos.
+Escreva uma função para contar vogais numa cadeia de caracteres.
+Prove que a raiz quadrada de 2 é irracional.
+Implemente programação dinâmica para o problema da mochila.
+Analise a complexidade temporal e espacial do quicksort.
+Resolva um problema de otimização com restrições usando cálculo.
+Conceba uma fila segura para concorrência.
+Explique a poda alfa-beta em árvores de jogo.
+Escreva um parser para expressões aritméticas.
+Resolva um problema lógico envolvendo múltiplas restrições.
+Prove a correção de um algoritmo usando indução.
+Implemente um algoritmo de caminho mais curto e analise-o.
+Explique o problema da paragem e as suas implicações.
+Resolva um problema minimax em teoria dos jogos.
+Conceba uma passagem de otimização de compilador.
+Analise um protocolo criptográfico quanto a vulnerabilidades.
+Prove a NP-completude de um problema de decisão.
+Prove que existem infinitos números primos.
+Implemente merge sort e analise a sua complexidade.
+Resolva um problema de otimização não linear.
+Conceba uma estrutura de dados segura para threads.
+Explique o backtracking com um problema de exemplo.
+Escreva um interpretador para uma linguagem simples.
+Prove a correção do quicksort.
+Implemente o algoritmo de Dijkstra.
+Analise uma função de hashing quanto a colisões.
+Conceba um mecanismo de bloqueio distribuído.
+Explique as classes de complexidade P vs NP.
+Resolva um problema de satisfação de restrições.
+Conceba um algoritmo de recolha de lixo.
+Analise a segurança de um esquema de cifra simétrica.
+Prove a convergência de um método numérico.

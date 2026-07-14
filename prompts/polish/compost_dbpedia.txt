@@ -1,0 +1,90 @@
+Znajdź stolicę Niemiec.
+Pobierz rok urodzenia Alberta Einsteina.
+Wypisz języki używane w Hiszpanii.
+Znajdź populację Francji.
+Pobierz autora książki „1984”.
+Wypisz filmy wyreżyserowane przez Christophera Nolana.
+Znajdź kraj, w którym znajduje się Wieża Eiffla.
+Pobierz walutę używaną w Japonii.
+Wypisz rzeki przepływające przez Niemcy.
+Znajdź małżonka Baracka Obamy.
+Pobierz rok założenia Google.
+Wypisz albumy wydane przez The Beatles.
+Znajdź wysokość Mount Everestu.
+Pobierz stolicę Kanady.
+Wypisz sporty uprawiane na igrzyskach olimpijskich.
+Znajdź stolicę Włoch.
+Pobierz rok urodzenia Isaaca Newtona.
+Wypisz języki używane w Kanadzie.
+Znajdź populację Włoch.
+Pobierz autora „Zabić drozda”.
+Wypisz filmy wyreżyserowane przez Quentina Tarantino.
+Znajdź kraj, w którym znajduje się Koloseum.
+Pobierz walutę używaną w Wielkiej Brytanii.
+Wypisz rzeki we Francji.
+Znajdź małżonka Michelle Obamy.
+Pobierz rok założenia Microsoftu.
+Wypisz albumy wydane przez Adele.
+Znajdź wysokość K2.
+Pobierz stolicę Australii.
+Wypisz sporty uprawiane na Mistrzostwach Świata FIFA.
+Znajdź aktorów, którzy zagrali w filmach wyreżyserowanych przez Stevena Spielberga.
+Wypisz miasta położone w krajach będących członkami UE.
+Pobierz książki napisane przez autorów urodzonych w Wielkiej Brytanii.
+Znajdź uniwersytety położone w miastach liczących ponad milion mieszkańców.
+Wypisz filmy wydane po 2000 roku, które zdobyły Oscara.
+Pobierz naukowców, którzy zdobyli Nagrodę Nobla w dziedzinie fizyki.
+Znajdź firmy założone przed 1950 rokiem, które nadal działają.
+Wypisz rzeki przepływające przez więcej niż jeden kraj.
+Pobierz filmy będące adaptacjami powieści.
+Znajdź polityków, którzy pełnili funkcję zarówno prezydenta, jak i wiceprezydenta.
+Wypisz muzyków, którzy wydali albumy w wielu gatunkach.
+Pobierz miasta, które były gospodarzami Letnich Igrzysk Olimpijskich.
+Znajdź pisarzy, którzy pracowali również jako dziennikarze.
+Wypisz muzea położone w stolicach.
+Pobierz sportowców, którzy rywalizowali w więcej niż jednej dyscyplinie olimpijskiej.
+Znajdź aktorów, którzy zagrali w filmach wyreżyserowanych przez Jamesa Camerona.
+Wypisz miasta położone w krajach członkowskich NATO.
+Pobierz książki napisane przez autorów urodzonych w USA.
+Znajdź uniwersytety w miastach liczących ponad 500 000 mieszkańców.
+Wypisz filmy wydane po 2010 roku, które zdobyły nagrody.
+Pobierz naukowców, którzy zdobyli Nagrody Nobla w dziedzinie chemii.
+Znajdź firmy założone po 2000 roku, które stały się globalne.
+Wypisz rzeki mające źródło w górach.
+Pobierz filmy oparte na wydarzeniach historycznych.
+Znajdź polityków, którzy zajmowali wiele stanowisk rządowych.
+Wypisz muzyków, którzy współpracowali między gatunkami.
+Pobierz miasta, które były gospodarzami Zimowych Igrzysk Olimpijskich.
+Znajdź pisarzy, którzy pracowali również jako nauczyciele.
+Wypisz muzea położone w dużych obszarach metropolitalnych.
+Pobierz sportowców, którzy zdobyli medale na wielu igrzyskach olimpijskich.
+Znajdź uniwersytety, których absolwenci zdobyli Nagrody Nobla po 2000 roku.
+Wypisz miasta, które mają zarówno duże lotnisko, jak i port morski.
+Pobierz filmy wyreżyserowane przez reżyserów, którzy także występowali w swoich filmach.
+Znajdź naukowców, którzy pracowali w instytucjach w różnych krajach.
+Wypisz książki przetłumaczone na więcej niż 20 języków.
+Pobierz firmy, których założyciele urodzili się poza krajem rejestracji firmy.
+Znajdź artystów, których dzieła są wystawiane w wielu muzeach na całym świecie.
+Wypisz polityków, którzy pełnili role rządowe w różnych dekadach.
+Pobierz drużyny sportowe, które zdobyły mistrzostwa w wielu ligach.
+Znajdź miasta, które są stolicami i jednocześnie obiektami światowego dziedzictwa UNESCO.
+Wypisz filmy z udziałem aktorów, którzy zdobyli nagrody za różne filmy.
+Pobierz organizacje współpracujące z wieloma agencjami międzynarodowymi.
+Znajdź postacie historyczne związane z więcej niż jednym zawodem.
+Wypisz czasopisma naukowe wydawane przez uniwersytety posiadające szkoły medyczne.
+Pobierz wynalazki stworzone przez wynalazców posiadających wiele patentów.
+Znajdź naukowców, którzy współpracowali w wielu dyscyplinach.
+Wypisz firmy o wielonarodowych strukturach własnościowych.
+Pobierz filmy będące międzynarodowymi koprodukcjami.
+Znajdź przywódców politycznych, którzy wywierali wpływ na wiele krajów.
+Wypisz uniwersytety uczestniczące w globalnych partnerstwach badawczych.
+Pobierz książki zaadaptowane na filmy w różnych językach.
+Znajdź miasta objęte wieloma międzynarodowymi porozumieniami handlowymi.
+Wypisz organizacje działające na wielu kontynentach.
+Pobierz postacie historyczne mające wpływ w różnych dziedzinach.
+Znajdź artystów, których twórczość obejmuje wiele ruchów artystycznych.
+Wypisz czasopisma o publikacjach interdyscyplinarnych.
+Pobierz wynalazki mające wpływ na wiele branż.
+Znajdź sportowców rywalizujących w ligach międzynarodowych.
+Wypisz muzea o globalnych kolekcjach.
+Pobierz firmy działające w wielu sektorach na całym świecie.

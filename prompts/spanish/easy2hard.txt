@@ -1,0 +1,90 @@
+Calcula 7 + 8.
+Multiplica 6 por 9.
+Halla el cuadrado de 12.
+Convierte 100 centímetros a metros.
+Determina si 15 es un número par.
+Encuentra el mayor de tres números: 4, 9, 2.
+Calcula el perímetro de un cuadrado con lado de longitud 5.
+Convierte 2 horas en minutos.
+Halla el promedio de 2, 4 y 6.
+Resta 18 de 42.
+Escribe una función en Python que devuelva la suma de dos números.
+Imprime números del 1 al 10 usando un bucle.
+Explica qué es una variable en programación.
+Identifica la salida de: print(3 * 4).
+Describe qué hace una sentencia if.
+Suma 12 y 15.
+Multiplica 4 por 7.
+Halla el cubo de 3.
+Convierte 500 gramos a kilogramos.
+Determina si 22 es impar o par.
+Encuentra el menor de 8, 3 y 10.
+Calcula el área de un cuadrado con lado 6.
+Convierte 3 días en horas.
+Halla la suma de 5, 10 y 15.
+Resta 25 de 60.
+Imprime números del 10 al 20.
+Explica qué es una constante en programación.
+Identifica la salida de: print(5 + 2).
+Describe qué hace un bucle.
+Escribe una función simple que devuelva un número.
+Resuelve la ecuación xÂ² âˆ’ 5x + 6 = 0.
+Halla la derivada de 3xÂ² + 2x.
+Escribe una función en Python para comprobar si un número es primo.
+Explica la diferencia entre una lista y un diccionario.
+Halla la mediana de los números 3, 7, 9, 15, 21.
+Escribe pseudocódigo para la búsqueda binaria.
+Explica cómo funciona la recursión con un ejemplo.
+Resuelve un sistema de dos ecuaciones lineales.
+Analiza la complejidad temporal de la búsqueda lineal.
+Escribe una función para invertir una cadena.
+Explica cómo funciona la estructura de datos pila.
+Calcula el área bajo una curva lineal usando integración.
+Depura un bucle que se ejecuta indefinidamente.
+Explica el concepto de aritmética modular.
+Escribe una función que calcule números de Fibonacci.
+Resuelve la ecuación 2x + 3 = 11.
+Halla la derivada de x^2 + 4x.
+Escribe una función para comprobar si una cadena es un palíndromo.
+Explica cómo funcionan los arreglos en programación.
+Halla la media de los números 10, 20, 30, 40.
+Escribe pseudocódigo para la búsqueda lineal.
+Explica la recursión con el ejemplo del factorial.
+Resuelve un sistema de ecuaciones lineales por sustitución.
+Analiza la complejidad de la búsqueda binaria.
+Escribe una función para ordenar una lista.
+Explica cómo funcionan las colas.
+Calcula el área de un triángulo usando coordenadas.
+Depura una función con salida incorrecta.
+Explica la aritmética modular con ejemplos.
+Escribe una función para contar las vocales en una cadena.
+Demuestra que la raíz cuadrada de 2 es irracional.
+Implementa programación dinámica para el problema de la mochila.
+Analiza la complejidad temporal y espacial de quicksort.
+Resuelve un problema de optimización con restricciones usando cálculo.
+Diseña una cola segura para concurrencia.
+Explica la poda alfa-beta en árboles de juego.
+Escribe un analizador para expresiones aritméticas.
+Resuelve un rompecabezas lógico con múltiples restricciones.
+Demuestra la corrección de un algoritmo usando inducción.
+Implementa un algoritmo de camino más corto y analízalo.
+Explica el problema de la detención y sus implicaciones.
+Resuelve un problema minimax en teoría de juegos.
+Diseña una pasada de optimización de compilador.
+Analiza un protocolo criptográfico en busca de debilidades.
+Demuestra la NP-completitud de un problema de decisión.
+Demuestra que hay infinitos números primos.
+Implementa merge sort y analiza su complejidad.
+Resuelve un problema de optimización no lineal.
+Diseña una estructura de datos segura para hilos.
+Explica el backtracking con un problema de ejemplo.
+Escribe un intérprete para un lenguaje simple.
+Demuestra la corrección de quicksort.
+Implementa el algoritmo de Dijkstra.
+Analiza una función hash en busca de colisiones.
+Diseña un mecanismo de bloqueo distribuido.
+Explica las clases de complejidad P vs NP.
+Resuelve un problema de satisfacción de restricciones.
+Diseña un algoritmo de recolección de basura.
+Analiza la seguridad de un esquema de cifrado simétrico.
+Demuestra la convergencia de un método numérico.

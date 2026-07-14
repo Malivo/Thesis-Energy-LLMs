@@ -1,0 +1,90 @@
+Find the capital city of Germany.
+Retrieve the birth year of Albert Einstein.
+List the languages spoken in Spain.
+Find the population of France.
+Retrieve the author of the book "1984".
+List movies directed by Christopher Nolan.
+Find the country where the Eiffel Tower is located.
+Retrieve the currency used in Japan.
+List rivers that flow through Germany.
+Find the spouse of Barack Obama.
+Retrieve the founding year of Google.
+List albums released by The Beatles.
+Find the height of Mount Everest.
+Retrieve the capital of Canada.
+List sports played in the Olympic Games.
+Find the capital city of Italy.
+Retrieve the birth year of Isaac Newton.
+List languages spoken in Canada.
+Find the population of Italy.
+Retrieve the author of "To Kill a Mockingbird".
+List movies directed by Quentin Tarantino.
+Find the country where the Colosseum is located.
+Retrieve the currency used in the UK.
+List rivers in France.
+Find the spouse of Michelle Obama.
+Retrieve the founding year of Microsoft.
+List albums released by Adele.
+Find the height of K2.
+Retrieve the capital of Australia.
+List sports played in FIFA World Cup.
+Find actors who starred in movies directed by Steven Spielberg.
+List cities located in countries that are members of the EU.
+Retrieve books written by authors born in the UK.
+Find universities located in cities with more than one million inhabitants.
+List movies released after 2000 that won an Academy Award.
+Retrieve scientists who won a Nobel Prize in Physics.
+Find companies founded before 1950 that are still active.
+List rivers that flow through more than one country.
+Retrieve films adapted from novels.
+Find politicians who served as both president and vice president.
+List musicians who have released albums in multiple genres.
+Retrieve cities that hosted the Summer Olympics.
+Find writers who also worked as journalists.
+List museums located in capital cities.
+Retrieve athletes who competed in more than one Olympic sport.
+Find actors who starred in movies directed by James Cameron.
+List cities located in NATO member countries.
+Retrieve books written by authors born in the USA.
+Find universities in cities with populations over 500,000.
+List movies released after 2010 that won awards.
+Retrieve scientists who won Nobel Prizes in Chemistry.
+Find companies founded after 2000 that became global.
+List rivers that originate in mountains.
+Retrieve films based on historical events.
+Find politicians who held multiple government positions.
+List musicians who collaborated across genres.
+Retrieve cities that hosted Winter Olympics.
+Find writers who also worked as teachers.
+List museums located in major metropolitan areas.
+Retrieve athletes who won medals in multiple Olympics.
+Find universities with alumni who won Nobel Prizes after 2000.
+List cities that host both a major airport and a seaport.
+Retrieve films directed by directors who also acted in their movies.
+Find scientists who worked at institutions in different countries.
+List books translated into more than 20 languages.
+Retrieve companies with founders born outside the country of incorporation.
+Find artists whose works are displayed in multiple museums worldwide.
+List politicians who served in government roles across different decades.
+Retrieve sports teams that won championships in multiple leagues.
+Find cities that are capitals and also UNESCO World Heritage sites.
+List movies featuring actors who won awards for different films.
+Retrieve organizations that collaborate with multiple international agencies.
+Find historical figures associated with more than one profession.
+List academic journals published by universities with medical schools.
+Retrieve inventions created by inventors who held multiple patents.
+Find scientists who collaborated across multiple disciplines.
+List companies with multinational ownership structures.
+Retrieve films involving international co-productions.
+Find political leaders who influenced multiple countries.
+List universities involved in global research partnerships.
+Retrieve books adapted into films across different languages.
+Find cities with multiple international trade agreements.
+List organizations operating across multiple continents.
+Retrieve historical figures with influence in different fields.
+Find artists whose works span multiple artistic movements.
+List journals with cross-disciplinary publications.
+Retrieve inventions influencing multiple industries.
+Find athletes competing in international leagues.
+List museums with global collections.
+Retrieve companies involved in multiple sectors worldwide.

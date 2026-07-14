@@ -1,0 +1,90 @@
+Oblicz 7 + 8.
+Pomnóż 6 przez 9.
+Znajdź kwadrat liczby 12.
+Przelicz 100 centymetrów na metry.
+Określ, czy 15 jest liczbą parzystą.
+Znajdź największą z trzech liczb: 4, 9, 2.
+Oblicz obwód kwadratu o długości boku 5.
+Przelicz 2 godziny na minuty.
+Znajdź średnią z 2, 4 i 6.
+Odejmij 18 od 42.
+Napisz funkcję w Pythonie, która zwraca sumę dwóch liczb.
+Wypisz liczby od 1 do 10 za pomocą pętli.
+Wyjaśnij, czym jest zmienna w programowaniu.
+Określ wynik: print(3 * 4).
+Opisz, do czego służy instrukcja if.
+Dodaj 12 i 15.
+Pomnóż 4 przez 7.
+Znajdź sześcian liczby 3.
+Przelicz 500 gramów na kilogramy.
+Określ, czy 22 jest liczbą nieparzystą czy parzystą.
+Znajdź najmniejszą z liczb 8, 3 i 10.
+Oblicz pole kwadratu o boku 6.
+Przelicz 3 dni na godziny.
+Znajdź sumę 5, 10 i 15.
+Odejmij 25 od 60.
+Wypisz liczby od 10 do 20.
+Wyjaśnij, czym jest stała w programowaniu.
+Określ wynik: print(5 + 2).
+Opisz, do czego służy pętla.
+Napisz prostą funkcję, która zwraca liczbę.
+Rozwiąż równanie xÂ² âˆ’ 5x + 6 = 0.
+Znajdź pochodną 3xÂ² + 2x.
+Napisz funkcję w Pythonie sprawdzającą, czy liczba jest pierwsza.
+Wyjaśnij różnicę między listą a słownikiem.
+Znajdź medianę liczb 3, 7, 9, 15, 21.
+Napisz pseudokod wyszukiwania binarnego.
+Wyjaśnij, jak działa rekurencja, na przykładzie.
+Rozwiąż układ dwóch równań liniowych.
+Przeanalizuj złożoność czasową wyszukiwania liniowego.
+Napisz funkcję odwracającą napis.
+Wyjaśnij, jak działa struktura danych stos.
+Oblicz pole pod krzywą liniową za pomocą całkowania.
+Napraw błąd w pętli, która działa w nieskończoność.
+Wyjaśnij pojęcie arytmetyki modularnej.
+Napisz funkcję obliczającą liczby Fibonacciego.
+Rozwiąż równanie 2x + 3 = 11.
+Znajdź pochodną x^2 + 4x.
+Napisz funkcję sprawdzającą, czy napis jest palindromem.
+Wyjaśnij, jak działają tablice w programowaniu.
+Znajdź średnią liczb 10, 20, 30, 40.
+Napisz pseudokod wyszukiwania liniowego.
+Wyjaśnij rekurencję na przykładzie silni.
+Rozwiąż układ równań liniowych metodą podstawiania.
+Przeanalizuj złożoność wyszukiwania binarnego.
+Napisz funkcję sortującą listę.
+Wyjaśnij, jak działają kolejki.
+Oblicz pole trójkąta na podstawie współrzędnych.
+Napraw błąd w funkcji zwracającej nieprawidłowy wynik.
+Wyjaśnij arytmetykę modularną na przykładach.
+Napisz funkcję liczącą samogłoski w napisie.
+Udowodnij, że pierwiastek kwadratowy z 2 jest niewymierny.
+Zaimplementuj programowanie dynamiczne dla problemu plecakowego.
+Przeanalizuj złożoność czasową i pamięciową quicksorta.
+Rozwiąż problem optymalizacji z ograniczeniami za pomocą rachunku różniczkowego.
+Zaprojektuj kolejkę bezpieczną współbieżnie.
+Wyjaśnij przycinanie alfa-beta w drzewach gier.
+Napisz parser wyrażeń arytmetycznych.
+Rozwiąż łamigłówkę logiczną obejmującą wiele ograniczeń.
+Udowodnij poprawność algorytmu za pomocą indukcji.
+Zaimplementuj algorytm najkrótszej ścieżki i przeanalizuj go.
+Wyjaśnij problem stopu i jego implikacje.
+Rozwiąż problem minimaksowy w teorii gier.
+Zaprojektuj przebieg optymalizacji kompilatora.
+Przeanalizuj protokół kryptograficzny pod kątem słabości.
+Udowodnij NP-zupełność problemu decyzyjnego.
+Udowodnij, że istnieje nieskończenie wiele liczb pierwszych.
+Zaimplementuj sortowanie przez scalanie i przeanalizuj jego złożoność.
+Rozwiąż nieliniowy problem optymalizacji.
+Zaprojektuj strukturę danych bezpieczną dla wątków.
+Wyjaśnij algorytm z nawrotami na przykładzie problemu.
+Napisz interpreter dla prostego języka.
+Udowodnij poprawność quicksorta.
+Zaimplementuj algorytm Dijkstry.
+Przeanalizuj funkcję haszującą pod kątem kolizji.
+Zaprojektuj mechanizm blokowania rozproszonego.
+Wyjaśnij klasy złożoności P kontra NP.
+Rozwiąż problem spełniania ograniczeń.
+Zaprojektuj algorytm odśmiecania pamięci.
+Przeanalizuj bezpieczeństwo schematu szyfrowania symetrycznego.
+Udowodnij zbieżność metody numerycznej.

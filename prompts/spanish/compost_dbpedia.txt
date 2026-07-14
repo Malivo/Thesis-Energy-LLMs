@@ -1,0 +1,90 @@
+Encuentra la ciudad capital de Alemania.
+Recupera el año de nacimiento de Albert Einstein.
+Enumera los idiomas hablados en España.
+Encuentra la población de Francia.
+Recupera el autor del libro "1984".
+Enumera las películas dirigidas por Christopher Nolan.
+Encuentra el país donde se encuentra la Torre Eiffel.
+Recupera la moneda utilizada en Japón.
+Enumera los ríos que fluyen por Alemania.
+Encuentra el cónyuge de Barack Obama.
+Recupera el año de fundación de Google.
+Enumera los álbumes lanzados por The Beatles.
+Encuentra la altura del Monte Everest.
+Recupera la capital de Canadá.
+Enumera los deportes practicados en los Juegos Olímpicos.
+Encuentra la ciudad capital de Italia.
+Recupera el año de nacimiento de Isaac Newton.
+Enumera los idiomas hablados en Canadá.
+Encuentra la población de Italia.
+Recupera el autor de "To Kill a Mockingbird".
+Enumera las películas dirigidas por Quentin Tarantino.
+Encuentra el país donde se encuentra el Coliseo.
+Recupera la moneda utilizada en el Reino Unido.
+Enumera los ríos de Francia.
+Encuentra el cónyuge de Michelle Obama.
+Recupera el año de fundación de Microsoft.
+Enumera los álbumes lanzados por Adele.
+Encuentra la altura del K2.
+Recupera la capital de Australia.
+Enumera los deportes practicados en la Copa Mundial de la FIFA.
+Encuentra actores que protagonizaron películas dirigidas por Steven Spielberg.
+Enumera ciudades ubicadas en países que son miembros de la UE.
+Recupera libros escritos por autores nacidos en el Reino Unido.
+Encuentra universidades ubicadas en ciudades con más de un millón de habitantes.
+Enumera películas estrenadas después de 2000 que ganaron un Premio de la Academia.
+Recupera científicos que ganaron un Premio Nobel de Física.
+Encuentra empresas fundadas antes de 1950 que aún siguen activas.
+Enumera ríos que fluyen por más de un país.
+Recupera películas adaptadas de novelas.
+Encuentra políticos que sirvieron tanto como presidente como vicepresidente.
+Enumera músicos que han lanzado álbumes en múltiples géneros.
+Recupera ciudades que albergaron los Juegos Olímpicos de Verano.
+Encuentra escritores que también trabajaron como periodistas.
+Enumera museos ubicados en ciudades capitales.
+Recupera atletas que compitieron en más de un deporte olímpico.
+Encuentra actores que protagonizaron películas dirigidas por James Cameron.
+Enumera ciudades ubicadas en países miembros de la OTAN.
+Recupera libros escritos por autores nacidos en los EE. UU.
+Encuentra universidades en ciudades con poblaciones superiores a 500,000.
+Enumera películas estrenadas después de 2010 que ganaron premios.
+Recupera científicos que ganaron Premios Nobel de Química.
+Encuentra empresas fundadas después de 2000 que se volvieron globales.
+Enumera ríos que nacen en montañas.
+Recupera películas basadas en hechos históricos.
+Encuentra políticos que ocuparon múltiples cargos gubernamentales.
+Enumera músicos que colaboraron entre géneros.
+Recupera ciudades que albergaron los Juegos Olímpicos de Invierno.
+Encuentra escritores que también trabajaron como maestros.
+Enumera museos ubicados en grandes áreas metropolitanas.
+Recupera atletas que ganaron medallas en múltiples Juegos Olímpicos.
+Encuentra universidades con exalumnos que ganaron Premios Nobel después de 2000.
+Enumera ciudades que cuentan tanto con un aeropuerto importante como con un puerto marítimo.
+Recupera películas dirigidas por directores que también actuaron en sus películas.
+Encuentra científicos que trabajaron en instituciones de diferentes países.
+Enumera libros traducidos a más de 20 idiomas.
+Recupera empresas con fundadores nacidos fuera del país de constitución.
+Encuentra artistas cuyas obras se exhiben en múltiples museos de todo el mundo.
+Enumera políticos que sirvieron en cargos gubernamentales a lo largo de diferentes décadas.
+Recupera equipos deportivos que ganaron campeonatos en múltiples ligas.
+Encuentra ciudades que son capitales y también sitios del Patrimonio Mundial de la UNESCO.
+Enumera películas con actores que ganaron premios por diferentes películas.
+Recupera organizaciones que colaboran con múltiples agencias internacionales.
+Encuentra figuras históricas asociadas con más de una profesión.
+Enumera revistas académicas publicadas por universidades con facultades de medicina.
+Recupera inventos creados por inventores que poseían múltiples patentes.
+Encuentra científicos que colaboraron en múltiples disciplinas.
+Enumera empresas con estructuras de propiedad multinacional.
+Recupera películas que involucran coproducciones internacionales.
+Encuentra líderes políticos que influyeron en múltiples países.
+Enumera universidades involucradas en asociaciones globales de investigación.
+Recupera libros adaptados al cine en diferentes idiomas.
+Encuentra ciudades con múltiples acuerdos comerciales internacionales.
+Enumera organizaciones que operan en múltiples continentes.
+Recupera figuras históricas con influencia en diferentes campos.
+Encuentra artistas cuyas obras abarcan múltiples movimientos artísticos.
+Enumera revistas con publicaciones interdisciplinarias.
+Recupera inventos que influyen en múltiples industrias.
+Encuentra atletas que compiten en ligas internacionales.
+Enumera museos con colecciones globales.
+Recupera empresas involucradas en múltiples sectores a nivel mundial.

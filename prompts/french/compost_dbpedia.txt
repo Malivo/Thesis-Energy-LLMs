@@ -1,0 +1,90 @@
+Trouvez la capitale de l'Allemagne.
+Récupérez l'année de naissance d'Albert Einstein.
+Listez les langues parlées en Espagne.
+Trouvez la population de la France.
+Récupérez l'auteur du livre "1984".
+Listez les films réalisés par Christopher Nolan.
+Trouvez le pays où se trouve la tour Eiffel.
+Récupérez la monnaie utilisée au Japon.
+Listez les fleuves qui traversent l'Allemagne.
+Trouvez l'épouse de Barack Obama.
+Récupérez l'année de fondation de Google.
+Listez les albums publiés par les Beatles.
+Trouvez la hauteur du mont Everest.
+Récupérez la capitale du Canada.
+Listez les sports pratiqués aux Jeux olympiques.
+Trouvez la capitale de l'Italie.
+Récupérez l'année de naissance d'Isaac Newton.
+Listez les langues parlées au Canada.
+Trouvez la population de l'Italie.
+Récupérez l'auteur de "Ne tirez pas sur l'oiseau moqueur".
+Listez les films réalisés par Quentin Tarantino.
+Trouvez le pays où se trouve le Colisée.
+Récupérez la monnaie utilisée au Royaume-Uni.
+Listez les fleuves de France.
+Trouvez l'époux de Michelle Obama.
+Récupérez l'année de fondation de Microsoft.
+Listez les albums publiés par Adele.
+Trouvez la hauteur du K2.
+Récupérez la capitale de l'Australie.
+Listez les sports pratiqués lors de la Coupe du Monde de la FIFA.
+Trouvez les acteurs ayant joué dans des films réalisés par Steven Spielberg.
+Listez les villes situées dans des pays membres de l'UE.
+Récupérez les livres écrits par des auteurs nés au Royaume-Uni.
+Trouvez les universités situées dans des villes de plus d'un million d'habitants.
+Listez les films sortis après 2000 ayant remporté un Oscar.
+Récupérez les scientifiques ayant remporté un prix Nobel de physique.
+Trouvez les entreprises fondées avant 1950 qui sont toujours en activité.
+Listez les fleuves qui traversent plus d'un pays.
+Récupérez les films adaptés de romans.
+Trouvez les politiciens ayant exercé à la fois comme président et vice-président.
+Listez les musiciens ayant publié des albums dans plusieurs genres.
+Récupérez les villes ayant accueilli les Jeux olympiques d'été.
+Trouvez les écrivains ayant également travaillé comme journalistes.
+Listez les musées situés dans des capitales.
+Récupérez les athlètes ayant concouru dans plus d'un sport olympique.
+Trouvez les acteurs ayant joué dans des films réalisés par James Cameron.
+Listez les villes situées dans des pays membres de l'OTAN.
+Récupérez les livres écrits par des auteurs nés aux États-Unis.
+Trouvez les universités dans des villes de plus de 500 000 habitants.
+Listez les films sortis après 2010 ayant remporté des prix.
+Récupérez les scientifiques ayant remporté des prix Nobel de chimie.
+Trouvez les entreprises fondées après 2000 qui sont devenues mondiales.
+Listez les fleuves qui prennent leur source dans des montagnes.
+Récupérez les films basés sur des événements historiques.
+Trouvez les politiciens ayant occupé plusieurs fonctions gouvernementales.
+Listez les musiciens ayant collaboré à travers différents genres.
+Récupérez les villes ayant accueilli les Jeux olympiques d'hiver.
+Trouvez les écrivains ayant également travaillé comme enseignants.
+Listez les musées situés dans de grandes zones métropolitaines.
+Récupérez les athlètes ayant remporté des médailles à plusieurs Jeux olympiques.
+Trouvez les universités dont des anciens élèves ont remporté des prix Nobel après 2000.
+Listez les villes qui possèdent à la fois un grand aéroport et un port maritime.
+Récupérez les films réalisés par des réalisateurs ayant également joué dans leurs films.
+Trouvez les scientifiques ayant travaillé dans des institutions de différents pays.
+Listez les livres traduits dans plus de 20 langues.
+Récupérez les entreprises dont les fondateurs sont nés en dehors du pays d'incorporation.
+Trouvez les artistes dont les œuvres sont exposées dans plusieurs musées à travers le monde.
+Listez les politiciens ayant occupé des fonctions gouvernementales à différentes décennies.
+Récupérez les équipes sportives ayant remporté des championnats dans plusieurs ligues.
+Trouvez les villes qui sont des capitales et également des sites du patrimoine mondial de l'UNESCO.
+Listez les films mettant en vedette des acteurs ayant remporté des prix pour différents films.
+Récupérez les organisations qui collaborent avec plusieurs agences internationales.
+Trouvez les figures historiques associées à plus d'une profession.
+Listez les revues universitaires publiées par des universités disposant d'écoles de médecine.
+Récupérez les inventions créées par des inventeurs détenant plusieurs brevets.
+Trouvez les scientifiques ayant collaboré dans plusieurs disciplines.
+Listez les entreprises ayant des structures de propriété multinationales.
+Récupérez les films impliquant des coproductions internationales.
+Trouvez les dirigeants politiques ayant influencé plusieurs pays.
+Listez les universités impliquées dans des partenariats de recherche mondiaux.
+Récupérez les livres adaptés en films dans différentes langues.
+Trouvez les villes ayant conclu plusieurs accords commerciaux internationaux.
+Listez les organisations opérant sur plusieurs continents.
+Récupérez les figures historiques ayant eu une influence dans différents domaines.
+Trouvez les artistes dont les œuvres couvrent plusieurs mouvements artistiques.
+Listez les revues avec des publications interdisciplinaires.
+Récupérez les inventions influençant plusieurs industries.
+Trouvez les athlètes concourant dans des ligues internationales.
+Listez les musées avec des collections mondiales.
+Récupérez les entreprises impliquées dans plusieurs secteurs à travers le monde.

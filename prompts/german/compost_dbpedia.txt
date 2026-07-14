@@ -1,0 +1,90 @@
+Finden Sie die Hauptstadt von Deutschland.
+Rufen Sie das Geburtsjahr von Albert Einstein ab.
+Listen Sie die in Spanien gesprochenen Sprachen auf.
+Finden Sie die Bevölkerung von Frankreich.
+Rufen Sie den Autor des Buches "1984" ab.
+Listen Sie Filme auf, bei denen Christopher Nolan Regie geführt hat.
+Finden Sie das Land, in dem sich der Eiffelturm befindet.
+Rufen Sie die in Japan verwendete Währung ab.
+Listen Sie Flüsse auf, die durch Deutschland fließen.
+Finden Sie den Ehepartner von Barack Obama.
+Rufen Sie das Gründungsjahr von Google ab.
+Listen Sie Alben auf, die von The Beatles veröffentlicht wurden.
+Finden Sie die Höhe des Mount Everest.
+Rufen Sie die Hauptstadt von Kanada ab.
+Listen Sie Sportarten auf, die bei den Olympischen Spielen ausgeübt werden.
+Finden Sie die Hauptstadt von Italien.
+Rufen Sie das Geburtsjahr von Isaac Newton ab.
+Listen Sie die in Kanada gesprochenen Sprachen auf.
+Finden Sie die Bevölkerung von Italien.
+Rufen Sie den Autor von "To Kill a Mockingbird" ab.
+Listen Sie Filme auf, bei denen Quentin Tarantino Regie geführt hat.
+Finden Sie das Land, in dem sich das Kolosseum befindet.
+Rufen Sie die im Vereinigten Königreich verwendete Währung ab.
+Listen Sie Flüsse in Frankreich auf.
+Finden Sie den Ehepartner von Michelle Obama.
+Rufen Sie das Gründungsjahr von Microsoft ab.
+Listen Sie Alben auf, die von Adele veröffentlicht wurden.
+Finden Sie die Höhe des K2.
+Rufen Sie die Hauptstadt von Australien ab.
+Listen Sie Sportarten auf, die bei der FIFA-Weltmeisterschaft gespielt werden.
+Finden Sie Schauspieler, die in Filmen mitgespielt haben, bei denen Steven Spielberg Regie geführt hat.
+Listen Sie Städte auf, die in Ländern liegen, die Mitglieder der EU sind.
+Rufen Sie Bücher ab, die von Autoren geschrieben wurden, die im Vereinigten Königreich geboren wurden.
+Finden Sie Universitäten, die sich in Städten mit mehr als einer Million Einwohnern befinden.
+Listen Sie Filme auf, die nach 2000 veröffentlicht wurden und einen Oscar gewonnen haben.
+Rufen Sie Wissenschaftler ab, die einen Nobelpreis für Physik gewonnen haben.
+Finden Sie Unternehmen, die vor 1950 gegründet wurden und noch aktiv sind.
+Listen Sie Flüsse auf, die durch mehr als ein Land fließen.
+Rufen Sie Filme ab, die auf Romanen basieren.
+Finden Sie Politiker, die sowohl als Präsident als auch als Vizepräsident gedient haben.
+Listen Sie Musiker auf, die Alben in mehreren Genres veröffentlicht haben.
+Rufen Sie Städte ab, die die Olympischen Sommerspiele ausgerichtet haben.
+Finden Sie Schriftsteller, die auch als Journalisten gearbeitet haben.
+Listen Sie Museen auf, die sich in Hauptstadtstädten befinden.
+Rufen Sie Athleten ab, die in mehr als einer olympischen Sportart angetreten sind.
+Finden Sie Schauspieler, die in Filmen mitgespielt haben, bei denen James Cameron Regie geführt hat.
+Listen Sie Städte auf, die in NATO-Mitgliedsländern liegen.
+Rufen Sie Bücher ab, die von Autoren geschrieben wurden, die in den USA geboren wurden.
+Finden Sie Universitäten in Städten mit mehr als 500.000 Einwohnern.
+Listen Sie Filme auf, die nach 2010 veröffentlicht wurden und Auszeichnungen gewonnen haben.
+Rufen Sie Wissenschaftler ab, die Nobelpreise für Chemie gewonnen haben.
+Finden Sie Unternehmen, die nach 2000 gegründet wurden und global geworden sind.
+Listen Sie Flüsse auf, die in Gebirgen entspringen.
+Rufen Sie Filme ab, die auf historischen Ereignissen basieren.
+Finden Sie Politiker, die mehrere Regierungsämter innehatten.
+Listen Sie Musiker auf, die genreübergreifend zusammengearbeitet haben.
+Rufen Sie Städte ab, die Olympische Winterspiele ausgerichtet haben.
+Finden Sie Schriftsteller, die auch als Lehrer gearbeitet haben.
+Listen Sie Museen auf, die sich in großen Ballungsräumen befinden.
+Rufen Sie Athleten ab, die bei mehreren Olympischen Spielen Medaillen gewonnen haben.
+Finden Sie Universitäten mit Alumni, die nach 2000 Nobelpreise gewonnen haben.
+Listen Sie Städte auf, die sowohl einen großen Flughafen als auch einen Seehafen haben.
+Rufen Sie Filme ab, bei denen Regisseure Regie geführt haben, die auch in ihren Filmen mitgespielt haben.
+Finden Sie Wissenschaftler, die an Institutionen in verschiedenen Ländern gearbeitet haben.
+Listen Sie Bücher auf, die in mehr als 20 Sprachen übersetzt wurden.
+Rufen Sie Unternehmen ab, deren Gründer außerhalb des Landes ihrer Gründung geboren wurden.
+Finden Sie Künstler, deren Werke in mehreren Museen weltweit ausgestellt sind.
+Listen Sie Politiker auf, die in verschiedenen Jahrzehnten Regierungsämter innehatten.
+Rufen Sie Sportmannschaften ab, die Meisterschaften in mehreren Ligen gewonnen haben.
+Finden Sie Städte, die Hauptstädte und zugleich UNESCO-Welterbestätten sind.
+Listen Sie Filme auf, in denen Schauspieler mitspielen, die für andere Filme Auszeichnungen gewonnen haben.
+Rufen Sie Organisationen ab, die mit mehreren internationalen Agenturen zusammenarbeiten.
+Finden Sie historische Persönlichkeiten, die mit mehr als einem Beruf in Verbindung stehen.
+Listen Sie wissenschaftliche Zeitschriften auf, die von Universitäten mit medizinischen Fakultäten herausgegeben werden.
+Rufen Sie Erfindungen ab, die von Erfindern geschaffen wurden, die mehrere Patente hielten.
+Finden Sie Wissenschaftler, die fachübergreifend zusammengearbeitet haben.
+Listen Sie Unternehmen mit multinationalen Eigentümerstrukturen auf.
+Rufen Sie Filme ab, an denen internationale Koproduktionen beteiligt waren.
+Finden Sie politische Führungspersönlichkeiten, die mehrere Länder beeinflusst haben.
+Listen Sie Universitäten auf, die an globalen Forschungspartnerschaften beteiligt sind.
+Rufen Sie Bücher ab, die in verschiedenen Sprachen verfilmt wurden.
+Finden Sie Städte mit mehreren internationalen Handelsabkommen.
+Listen Sie Organisationen auf, die auf mehreren Kontinenten tätig sind.
+Rufen Sie historische Persönlichkeiten ab, die in verschiedenen Bereichen Einfluss hatten.
+Finden Sie Künstler, deren Werke mehrere Kunstrichtungen umfassen.
+Listen Sie Zeitschriften mit fachübergreifenden Veröffentlichungen auf.
+Rufen Sie Erfindungen ab, die mehrere Industrien beeinflussen.
+Finden Sie Athleten, die in internationalen Ligen antreten.
+Listen Sie Museen mit globalen Sammlungen auf.
+Rufen Sie Unternehmen ab, die weltweit in mehreren Sektoren tätig sind.
