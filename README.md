@@ -11,6 +11,20 @@ figures/       result figures for the two GPUs used
 requirements.txt
 ```
 
+## How it works
+
+The GUI writes settings to the config, which the orchestrator reads. For each prompt it starts the telemetry loggers and runs llama.cpp, writing per-prompt rows to CSV. Those logs feed the per-run analysis, and once all runs finish the aggregate analysis combines them.
+
+```mermaid
+flowchart TD
+    A[GUI] --> B[Config]
+    B --> C[Benchmark orchestrator]
+    C --> D[Telemetry + llama.cpp]
+    D --> E[CSV logs]
+    E --> F[Per-run analysis]
+    F --> G[Aggregate analysis]
+```
+
 ## Background
 
 For a deployed model, inference runs constantly while training happens once, so over time inference ends up dominating the energy cost. The problem is that existing studies are hard to compare, because they use different hardware, different workloads, and measure different things. This project is an attempt at a setup that is controlled enough to compare results across models and languages.
